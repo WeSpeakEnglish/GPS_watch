@@ -1,0 +1,2054 @@
+Archive member included because of file (symbol)
+
+d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-exit.o)
+                              d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o (exit)
+d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-impure.o)
+                              d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-exit.o) (_global_impure_ptr)
+d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-init.o)
+                              d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o (__libc_init_array)
+d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-memset.o)
+                              d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o (memset)
+d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-__call_atexit.o)
+                              d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-exit.o) (__call_exitprocs)
+d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-atexit.o)
+                              d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-__call_atexit.o) (atexit)
+d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-fini.o)
+                              d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-__call_atexit.o) (__libc_fini_array)
+d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-__atexit.o)
+                              d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-atexit.o) (__register_exitproc)
+d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libnosys.a(_exit.o)
+                              d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-exit.o) (_exit)
+
+Allocating common symbols
+Common symbol       size              file
+
+s_TimeStructVar     0x6               obj\debug\src\rtc.o
+arrayGPS            0x100             obj\debug\src\gps.o
+Time                0x4               obj\debug\src\gps.o
+ClockSource         0x1               obj\debug\src\rtc.o
+
+Discarded input sections
+
+ .text          0x00000000        0x0 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crti.o
+ .data          0x00000000        0x0 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crti.o
+ .bss           0x00000000        0x0 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crti.o
+ .init          0x00000000        0x4 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crti.o
+ .fini          0x00000000        0x4 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crti.o
+ .ARM.attributes
+                0x00000000       0x1d d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crti.o
+ .text          0x00000000       0x54 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtbegin.o
+ .data          0x00000000        0x4 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtbegin.o
+ .bss           0x00000000       0x1c d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtbegin.o
+ .init_array    0x00000000        0x4 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtbegin.o
+ .fini_array    0x00000000        0x4 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtbegin.o
+ .eh_frame      0x00000000        0x0 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtbegin.o
+ .jcr           0x00000000        0x0 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtbegin.o
+ .ARM.attributes
+                0x00000000       0x2d d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtbegin.o
+ .text          0x00000000       0x74 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .data          0x00000000        0x0 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .bss           0x00000000        0x0 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .ARM.extab     0x00000000        0x0 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .ARM.exidx     0x00000000        0x8 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .ARM.attributes
+                0x00000000       0x1b d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .group         0x00000000        0x8 obj\debug\src\gps.o
+ .group         0x00000000        0x8 obj\debug\src\gps.o
+ .group         0x00000000        0x8 obj\debug\src\gps.o
+ .group         0x00000000        0x8 obj\debug\src\gps.o
+ .group         0x00000000        0x8 obj\debug\src\gps.o
+ .group         0x00000000        0x8 obj\debug\src\gps.o
+ .group         0x00000000        0x8 obj\debug\src\gps.o
+ .group         0x00000000        0x8 obj\debug\src\gps.o
+ .group         0x00000000        0x8 obj\debug\src\gps.o
+ .group         0x00000000        0x8 obj\debug\src\gps.o
+ .group         0x00000000        0x8 obj\debug\src\gps.o
+ .group         0x00000000        0x8 obj\debug\src\gps.o
+ .group         0x00000000        0x8 obj\debug\src\gps.o
+ .group         0x00000000        0x8 obj\debug\src\gps.o
+ .data          0x00000000        0x0 obj\debug\src\gps.o
+ .group         0x00000000        0x8 obj\debug\src\rtc.o
+ .group         0x00000000        0x8 obj\debug\src\rtc.o
+ .group         0x00000000        0x8 obj\debug\src\rtc.o
+ .group         0x00000000        0x8 obj\debug\src\rtc.o
+ .group         0x00000000        0x8 obj\debug\src\rtc.o
+ .group         0x00000000        0x8 obj\debug\src\rtc.o
+ .group         0x00000000        0x8 obj\debug\src\rtc.o
+ .group         0x00000000        0x8 obj\debug\src\rtc.o
+ .group         0x00000000        0x8 obj\debug\src\rtc.o
+ .group         0x00000000        0x8 obj\debug\src\rtc.o
+ .group         0x00000000        0x8 obj\debug\src\rtc.o
+ .group         0x00000000        0x8 obj\debug\src\rtc.o
+ .group         0x00000000        0x8 obj\debug\src\rtc.o
+ .group         0x00000000        0x8 obj\debug\src\rtc.o
+ .group         0x00000000        0x8 obj\debug\src\rtc.o
+ .group         0x00000000        0x8 obj\debug\src\rtc.o
+ .group         0x00000000        0x8 obj\debug\src\rtc.o
+ .group         0x00000000        0x8 obj\debug\src\rtc.o
+ .group         0x00000000        0x8 obj\debug\src\rtc.o
+ .group         0x00000000        0x8 obj\debug\src\rtc.o
+ .rodata        0x00000000       0x80 obj\debug\src\rtc.o
+ .debug_macro   0x00000000      0x814 obj\debug\src\rtc.o
+ .debug_macro   0x00000000       0x56 obj\debug\src\rtc.o
+ .debug_macro   0x00000000       0x3a obj\debug\src\rtc.o
+ .debug_macro   0x00000000       0x16 obj\debug\src\rtc.o
+ .debug_macro   0x00000000       0x44 obj\debug\src\rtc.o
+ .debug_macro   0x00000000      0x209 obj\debug\src\rtc.o
+ .debug_macro   0x00000000       0x18 obj\debug\src\rtc.o
+ .debug_macro   0x00000000      0xa8b obj\debug\src\rtc.o
+ .debug_macro   0x00000000     0x7ea5 obj\debug\src\rtc.o
+ .debug_macro   0x00000000      0x2df obj\debug\src\rtc.o
+ .debug_macro   0x00000000      0x144 obj\debug\src\rtc.o
+ .debug_macro   0x00000000      0x2ac obj\debug\src\rtc.o
+ .debug_macro   0x00000000       0x35 obj\debug\src\rtc.o
+ .group         0x00000000        0x8 obj\debug\src\delays.o
+ .group         0x00000000        0x8 obj\debug\src\delays.o
+ .group         0x00000000        0x8 obj\debug\src\delays.o
+ .group         0x00000000        0x8 obj\debug\src\delays.o
+ .group         0x00000000        0x8 obj\debug\src\delays.o
+ .group         0x00000000        0x8 obj\debug\src\delays.o
+ .group         0x00000000        0x8 obj\debug\src\delays.o
+ .group         0x00000000        0x8 obj\debug\src\delays.o
+ .group         0x00000000        0x8 obj\debug\src\delays.o
+ .group         0x00000000        0x8 obj\debug\src\delays.o
+ .group         0x00000000        0x8 obj\debug\src\delays.o
+ .group         0x00000000        0x8 obj\debug\src\delays.o
+ .group         0x00000000        0x8 obj\debug\src\delays.o
+ .text          0x00000000       0x60 obj\debug\src\delays.o
+ .data          0x00000000        0x0 obj\debug\src\delays.o
+ .bss           0x00000000        0x0 obj\debug\src\delays.o
+ .debug_info    0x00000000      0x114 obj\debug\src\delays.o
+ .debug_abbrev  0x00000000       0xa2 obj\debug\src\delays.o
+ .debug_loc     0x00000000       0x70 obj\debug\src\delays.o
+ .debug_aranges
+                0x00000000       0x20 obj\debug\src\delays.o
+ .debug_macro   0x00000000       0xce obj\debug\src\delays.o
+ .debug_macro   0x00000000      0x814 obj\debug\src\delays.o
+ .debug_macro   0x00000000       0x56 obj\debug\src\delays.o
+ .debug_macro   0x00000000       0x3a obj\debug\src\delays.o
+ .debug_macro   0x00000000       0x16 obj\debug\src\delays.o
+ .debug_macro   0x00000000       0x44 obj\debug\src\delays.o
+ .debug_macro   0x00000000      0x209 obj\debug\src\delays.o
+ .debug_macro   0x00000000       0x18 obj\debug\src\delays.o
+ .debug_macro   0x00000000      0xa8b obj\debug\src\delays.o
+ .debug_macro   0x00000000     0x7ea5 obj\debug\src\delays.o
+ .debug_macro   0x00000000      0x2df obj\debug\src\delays.o
+ .debug_macro   0x00000000      0x144 obj\debug\src\delays.o
+ .debug_macro   0x00000000      0x2ac obj\debug\src\delays.o
+ .debug_macro   0x00000000       0x35 obj\debug\src\delays.o
+ .debug_line    0x00000000      0x36e obj\debug\src\delays.o
+ .debug_str     0x00000000    0x375ee obj\debug\src\delays.o
+ .comment       0x00000000       0x39 obj\debug\src\delays.o
+ .ARM.attributes
+                0x00000000       0x33 obj\debug\src\delays.o
+ .debug_frame   0x00000000       0x4c obj\debug\src\delays.o
+ .group         0x00000000        0x8 obj\debug\src\digits.o
+ .group         0x00000000        0x8 obj\debug\src\digits.o
+ .group         0x00000000        0x8 obj\debug\src\digits.o
+ .group         0x00000000        0x8 obj\debug\src\digits.o
+ .group         0x00000000        0x8 obj\debug\src\digits.o
+ .group         0x00000000        0x8 obj\debug\src\digits.o
+ .group         0x00000000        0x8 obj\debug\src\digits.o
+ .group         0x00000000        0x8 obj\debug\src\digits.o
+ .group         0x00000000        0x8 obj\debug\src\digits.o
+ .group         0x00000000        0x8 obj\debug\src\digits.o
+ .group         0x00000000        0x8 obj\debug\src\digits.o
+ .group         0x00000000        0x8 obj\debug\src\digits.o
+ .group         0x00000000        0x8 obj\debug\src\digits.o
+ .group         0x00000000        0x8 obj\debug\src\digits.o
+ .data          0x00000000        0x0 obj\debug\src\digits.o
+ .bss           0x00000000        0x0 obj\debug\src\digits.o
+ .debug_macro   0x00000000      0x814 obj\debug\src\digits.o
+ .debug_macro   0x00000000      0x220 obj\debug\src\digits.o
+ .debug_macro   0x00000000       0x56 obj\debug\src\digits.o
+ .debug_macro   0x00000000       0x3a obj\debug\src\digits.o
+ .debug_macro   0x00000000       0x16 obj\debug\src\digits.o
+ .debug_macro   0x00000000       0x44 obj\debug\src\digits.o
+ .debug_macro   0x00000000      0x209 obj\debug\src\digits.o
+ .debug_macro   0x00000000       0x18 obj\debug\src\digits.o
+ .debug_macro   0x00000000      0xa8b obj\debug\src\digits.o
+ .debug_macro   0x00000000     0x7ea5 obj\debug\src\digits.o
+ .debug_macro   0x00000000      0x2df obj\debug\src\digits.o
+ .debug_macro   0x00000000      0x144 obj\debug\src\digits.o
+ .debug_macro   0x00000000       0x35 obj\debug\src\digits.o
+ .group         0x00000000        0x8 obj\debug\src\ioconfig.o
+ .group         0x00000000        0x8 obj\debug\src\ioconfig.o
+ .group         0x00000000        0x8 obj\debug\src\ioconfig.o
+ .group         0x00000000        0x8 obj\debug\src\ioconfig.o
+ .group         0x00000000        0x8 obj\debug\src\ioconfig.o
+ .group         0x00000000        0x8 obj\debug\src\ioconfig.o
+ .group         0x00000000        0x8 obj\debug\src\ioconfig.o
+ .group         0x00000000        0x8 obj\debug\src\ioconfig.o
+ .group         0x00000000        0x8 obj\debug\src\ioconfig.o
+ .group         0x00000000        0x8 obj\debug\src\ioconfig.o
+ .group         0x00000000        0x8 obj\debug\src\ioconfig.o
+ .group         0x00000000        0x8 obj\debug\src\ioconfig.o
+ .group         0x00000000        0x8 obj\debug\src\ioconfig.o
+ .group         0x00000000        0x8 obj\debug\src\ioconfig.o
+ .group         0x00000000        0x8 obj\debug\src\ioconfig.o
+ .group         0x00000000        0x8 obj\debug\src\ioconfig.o
+ .group         0x00000000        0x8 obj\debug\src\ioconfig.o
+ .data          0x00000000        0x0 obj\debug\src\ioconfig.o
+ .bss           0x00000000        0x0 obj\debug\src\ioconfig.o
+ .debug_macro   0x00000000      0x814 obj\debug\src\ioconfig.o
+ .debug_macro   0x00000000       0x56 obj\debug\src\ioconfig.o
+ .debug_macro   0x00000000       0x3a obj\debug\src\ioconfig.o
+ .debug_macro   0x00000000       0x16 obj\debug\src\ioconfig.o
+ .debug_macro   0x00000000       0x44 obj\debug\src\ioconfig.o
+ .debug_macro   0x00000000      0x209 obj\debug\src\ioconfig.o
+ .debug_macro   0x00000000       0x18 obj\debug\src\ioconfig.o
+ .debug_macro   0x00000000      0xa8b obj\debug\src\ioconfig.o
+ .debug_macro   0x00000000     0x7ea5 obj\debug\src\ioconfig.o
+ .debug_macro   0x00000000      0x2df obj\debug\src\ioconfig.o
+ .debug_macro   0x00000000      0x144 obj\debug\src\ioconfig.o
+ .debug_macro   0x00000000       0x35 obj\debug\src\ioconfig.o
+ .debug_macro   0x00000000      0x2a6 obj\debug\src\ioconfig.o
+ .debug_macro   0x00000000      0x461 obj\debug\src\ioconfig.o
+ .debug_macro   0x00000000       0x82 obj\debug\src\ioconfig.o
+ .debug_macro   0x00000000      0x220 obj\debug\src\ioconfig.o
+ .debug_macro   0x00000000       0x64 obj\debug\src\ioconfig.o
+ .group         0x00000000        0x8 obj\debug\src\main.o
+ .group         0x00000000        0x8 obj\debug\src\main.o
+ .group         0x00000000        0x8 obj\debug\src\main.o
+ .group         0x00000000        0x8 obj\debug\src\main.o
+ .group         0x00000000        0x8 obj\debug\src\main.o
+ .group         0x00000000        0x8 obj\debug\src\main.o
+ .group         0x00000000        0x8 obj\debug\src\main.o
+ .group         0x00000000        0x8 obj\debug\src\main.o
+ .group         0x00000000        0x8 obj\debug\src\main.o
+ .group         0x00000000        0x8 obj\debug\src\main.o
+ .group         0x00000000        0x8 obj\debug\src\main.o
+ .group         0x00000000        0x8 obj\debug\src\main.o
+ .group         0x00000000        0x8 obj\debug\src\main.o
+ .group         0x00000000        0x8 obj\debug\src\main.o
+ .group         0x00000000        0x8 obj\debug\src\main.o
+ .group         0x00000000        0x8 obj\debug\src\main.o
+ .group         0x00000000        0x8 obj\debug\src\main.o
+ .data          0x00000000        0x0 obj\debug\src\main.o
+ .bss           0x00000000        0x0 obj\debug\src\main.o
+ .debug_macro   0x00000000      0x814 obj\debug\src\main.o
+ .debug_macro   0x00000000       0x56 obj\debug\src\main.o
+ .debug_macro   0x00000000       0x3a obj\debug\src\main.o
+ .debug_macro   0x00000000       0x16 obj\debug\src\main.o
+ .debug_macro   0x00000000       0x44 obj\debug\src\main.o
+ .debug_macro   0x00000000      0x209 obj\debug\src\main.o
+ .debug_macro   0x00000000       0x18 obj\debug\src\main.o
+ .debug_macro   0x00000000      0xa8b obj\debug\src\main.o
+ .debug_macro   0x00000000     0x7ea5 obj\debug\src\main.o
+ .debug_macro   0x00000000      0x2df obj\debug\src\main.o
+ .debug_macro   0x00000000      0x144 obj\debug\src\main.o
+ .debug_macro   0x00000000      0x2ac obj\debug\src\main.o
+ .debug_macro   0x00000000       0x35 obj\debug\src\main.o
+ .debug_macro   0x00000000       0x58 obj\debug\src\main.o
+ .debug_macro   0x00000000      0x220 obj\debug\src\main.o
+ .debug_macro   0x00000000       0x64 obj\debug\src\main.o
+ .group         0x00000000        0x8 obj\debug\src\timers.o
+ .group         0x00000000        0x8 obj\debug\src\timers.o
+ .group         0x00000000        0x8 obj\debug\src\timers.o
+ .group         0x00000000        0x8 obj\debug\src\timers.o
+ .group         0x00000000        0x8 obj\debug\src\timers.o
+ .group         0x00000000        0x8 obj\debug\src\timers.o
+ .group         0x00000000        0x8 obj\debug\src\timers.o
+ .group         0x00000000        0x8 obj\debug\src\timers.o
+ .group         0x00000000        0x8 obj\debug\src\timers.o
+ .group         0x00000000        0x8 obj\debug\src\timers.o
+ .group         0x00000000        0x8 obj\debug\src\timers.o
+ .group         0x00000000        0x8 obj\debug\src\timers.o
+ .group         0x00000000        0x8 obj\debug\src\timers.o
+ .group         0x00000000        0x8 obj\debug\src\timers.o
+ .group         0x00000000        0x8 obj\debug\src\timers.o
+ .group         0x00000000        0x8 obj\debug\src\timers.o
+ .group         0x00000000        0x8 obj\debug\src\timers.o
+ .group         0x00000000        0x8 obj\debug\src\timers.o
+ .data          0x00000000        0x0 obj\debug\src\timers.o
+ .debug_macro   0x00000000      0x814 obj\debug\src\timers.o
+ .debug_macro   0x00000000       0x56 obj\debug\src\timers.o
+ .debug_macro   0x00000000       0x3a obj\debug\src\timers.o
+ .debug_macro   0x00000000       0x16 obj\debug\src\timers.o
+ .debug_macro   0x00000000       0x44 obj\debug\src\timers.o
+ .debug_macro   0x00000000      0x209 obj\debug\src\timers.o
+ .debug_macro   0x00000000       0x18 obj\debug\src\timers.o
+ .debug_macro   0x00000000      0xa8b obj\debug\src\timers.o
+ .debug_macro   0x00000000     0x7ea5 obj\debug\src\timers.o
+ .debug_macro   0x00000000      0x2df obj\debug\src\timers.o
+ .debug_macro   0x00000000      0x144 obj\debug\src\timers.o
+ .debug_macro   0x00000000      0x2ac obj\debug\src\timers.o
+ .debug_macro   0x00000000       0x35 obj\debug\src\timers.o
+ .debug_macro   0x00000000       0x58 obj\debug\src\timers.o
+ .debug_macro   0x00000000       0x82 obj\debug\src\timers.o
+ .debug_macro   0x00000000       0x64 obj\debug\src\timers.o
+ .debug_macro   0x00000000      0x220 obj\debug\src\timers.o
+ .group         0x00000000        0x8 obj\debug\src\uart.o
+ .group         0x00000000        0x8 obj\debug\src\uart.o
+ .group         0x00000000        0x8 obj\debug\src\uart.o
+ .group         0x00000000        0x8 obj\debug\src\uart.o
+ .group         0x00000000        0x8 obj\debug\src\uart.o
+ .group         0x00000000        0x8 obj\debug\src\uart.o
+ .group         0x00000000        0x8 obj\debug\src\uart.o
+ .group         0x00000000        0x8 obj\debug\src\uart.o
+ .group         0x00000000        0x8 obj\debug\src\uart.o
+ .group         0x00000000        0x8 obj\debug\src\uart.o
+ .group         0x00000000        0x8 obj\debug\src\uart.o
+ .group         0x00000000        0x8 obj\debug\src\uart.o
+ .group         0x00000000        0x8 obj\debug\src\uart.o
+ .group         0x00000000        0x8 obj\debug\src\uart.o
+ .group         0x00000000        0x8 obj\debug\src\uart.o
+ .group         0x00000000        0x8 obj\debug\src\uart.o
+ .data          0x00000000        0x0 obj\debug\src\uart.o
+ .debug_macro   0x00000000      0x814 obj\debug\src\uart.o
+ .debug_macro   0x00000000       0x3a obj\debug\src\uart.o
+ .debug_macro   0x00000000       0x16 obj\debug\src\uart.o
+ .debug_macro   0x00000000       0x44 obj\debug\src\uart.o
+ .debug_macro   0x00000000      0x209 obj\debug\src\uart.o
+ .debug_macro   0x00000000       0x18 obj\debug\src\uart.o
+ .debug_macro   0x00000000      0xa8b obj\debug\src\uart.o
+ .debug_macro   0x00000000      0x2df obj\debug\src\uart.o
+ .debug_macro   0x00000000      0x144 obj\debug\src\uart.o
+ .debug_macro   0x00000000      0x2ac obj\debug\src\uart.o
+ .debug_macro   0x00000000      0x461 obj\debug\src\uart.o
+ .debug_macro   0x00000000       0x8b obj\debug\src\uart.o
+ .group         0x00000000        0x8 obj\debug\src\user_interface.o
+ .group         0x00000000        0x8 obj\debug\src\user_interface.o
+ .group         0x00000000        0x8 obj\debug\src\user_interface.o
+ .group         0x00000000        0x8 obj\debug\src\user_interface.o
+ .group         0x00000000        0x8 obj\debug\src\user_interface.o
+ .group         0x00000000        0x8 obj\debug\src\user_interface.o
+ .group         0x00000000        0x8 obj\debug\src\user_interface.o
+ .group         0x00000000        0x8 obj\debug\src\user_interface.o
+ .group         0x00000000        0x8 obj\debug\src\user_interface.o
+ .group         0x00000000        0x8 obj\debug\src\user_interface.o
+ .group         0x00000000        0x8 obj\debug\src\user_interface.o
+ .group         0x00000000        0x8 obj\debug\src\user_interface.o
+ .group         0x00000000        0x8 obj\debug\src\user_interface.o
+ .group         0x00000000        0x8 obj\debug\src\user_interface.o
+ .data          0x00000000        0x0 obj\debug\src\user_interface.o
+ .bss           0x00000000        0x0 obj\debug\src\user_interface.o
+ .debug_macro   0x00000000      0x814 obj\debug\src\user_interface.o
+ .debug_macro   0x00000000      0x220 obj\debug\src\user_interface.o
+ .debug_macro   0x00000000       0x56 obj\debug\src\user_interface.o
+ .debug_macro   0x00000000       0x3a obj\debug\src\user_interface.o
+ .debug_macro   0x00000000       0x16 obj\debug\src\user_interface.o
+ .debug_macro   0x00000000       0x44 obj\debug\src\user_interface.o
+ .debug_macro   0x00000000      0x209 obj\debug\src\user_interface.o
+ .debug_macro   0x00000000       0x18 obj\debug\src\user_interface.o
+ .debug_macro   0x00000000      0xa8b obj\debug\src\user_interface.o
+ .debug_macro   0x00000000     0x7ea5 obj\debug\src\user_interface.o
+ .debug_macro   0x00000000      0x2df obj\debug\src\user_interface.o
+ .debug_macro   0x00000000      0x144 obj\debug\src\user_interface.o
+ .debug_macro   0x00000000      0x2ac obj\debug\src\user_interface.o
+ .debug_macro   0x00000000       0x35 obj\debug\src\user_interface.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\misc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\misc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\misc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\misc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\misc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\misc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\misc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\misc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\misc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\misc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\misc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\misc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\misc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\misc.o
+ .data          0x00000000        0x0 obj\debug\stm_lib\src\misc.o
+ .bss           0x00000000        0x0 obj\debug\stm_lib\src\misc.o
+ .debug_macro   0x00000000      0x814 obj\debug\stm_lib\src\misc.o
+ .debug_macro   0x00000000       0x56 obj\debug\stm_lib\src\misc.o
+ .debug_macro   0x00000000       0x3a obj\debug\stm_lib\src\misc.o
+ .debug_macro   0x00000000       0x16 obj\debug\stm_lib\src\misc.o
+ .debug_macro   0x00000000       0x44 obj\debug\stm_lib\src\misc.o
+ .debug_macro   0x00000000      0x209 obj\debug\stm_lib\src\misc.o
+ .debug_macro   0x00000000       0x18 obj\debug\stm_lib\src\misc.o
+ .debug_macro   0x00000000      0xa8b obj\debug\stm_lib\src\misc.o
+ .debug_macro   0x00000000     0x7ea5 obj\debug\stm_lib\src\misc.o
+ .debug_macro   0x00000000      0x2df obj\debug\stm_lib\src\misc.o
+ .debug_macro   0x00000000      0x144 obj\debug\stm_lib\src\misc.o
+ .debug_macro   0x00000000      0x2ac obj\debug\stm_lib\src\misc.o
+ .debug_macro   0x00000000       0x35 obj\debug\stm_lib\src\misc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_adc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_adc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_adc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_adc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_adc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_adc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_adc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_adc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_adc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_adc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_adc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_adc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_adc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_adc.o
+ .text          0x00000000      0xb44 obj\debug\stm_lib\src\stm32f10x_adc.o
+ .data          0x00000000        0x0 obj\debug\stm_lib\src\stm32f10x_adc.o
+ .bss           0x00000000        0x0 obj\debug\stm_lib\src\stm32f10x_adc.o
+ .debug_info    0x00000000      0xc66 obj\debug\stm_lib\src\stm32f10x_adc.o
+ .debug_abbrev  0x00000000      0x19d obj\debug\stm_lib\src\stm32f10x_adc.o
+ .debug_loc     0x00000000      0x7d4 obj\debug\stm_lib\src\stm32f10x_adc.o
+ .debug_aranges
+                0x00000000       0x20 obj\debug\stm_lib\src\stm32f10x_adc.o
+ .debug_macro   0x00000000      0x1c7 obj\debug\stm_lib\src\stm32f10x_adc.o
+ .debug_macro   0x00000000      0x814 obj\debug\stm_lib\src\stm32f10x_adc.o
+ .debug_macro   0x00000000       0x56 obj\debug\stm_lib\src\stm32f10x_adc.o
+ .debug_macro   0x00000000       0x3a obj\debug\stm_lib\src\stm32f10x_adc.o
+ .debug_macro   0x00000000       0x16 obj\debug\stm_lib\src\stm32f10x_adc.o
+ .debug_macro   0x00000000       0x44 obj\debug\stm_lib\src\stm32f10x_adc.o
+ .debug_macro   0x00000000      0x209 obj\debug\stm_lib\src\stm32f10x_adc.o
+ .debug_macro   0x00000000       0x18 obj\debug\stm_lib\src\stm32f10x_adc.o
+ .debug_macro   0x00000000      0xa8b obj\debug\stm_lib\src\stm32f10x_adc.o
+ .debug_macro   0x00000000     0x7ea5 obj\debug\stm_lib\src\stm32f10x_adc.o
+ .debug_macro   0x00000000      0x13e obj\debug\stm_lib\src\stm32f10x_adc.o
+ .debug_macro   0x00000000      0x2ac obj\debug\stm_lib\src\stm32f10x_adc.o
+ .debug_macro   0x00000000       0x35 obj\debug\stm_lib\src\stm32f10x_adc.o
+ .debug_macro   0x00000000      0x2df obj\debug\stm_lib\src\stm32f10x_adc.o
+ .debug_macro   0x00000000      0x461 obj\debug\stm_lib\src\stm32f10x_adc.o
+ .debug_line    0x00000000      0x4b7 obj\debug\stm_lib\src\stm32f10x_adc.o
+ .debug_str     0x00000000    0x3a531 obj\debug\stm_lib\src\stm32f10x_adc.o
+ .comment       0x00000000       0x39 obj\debug\stm_lib\src\stm32f10x_adc.o
+ .ARM.attributes
+                0x00000000       0x33 obj\debug\stm_lib\src\stm32f10x_adc.o
+ .debug_frame   0x00000000      0x400 obj\debug\stm_lib\src\stm32f10x_adc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_bkp.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_bkp.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_bkp.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_bkp.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_bkp.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_bkp.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_bkp.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_bkp.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_bkp.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_bkp.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_bkp.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_bkp.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_bkp.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_bkp.o
+ .data          0x00000000        0x0 obj\debug\stm_lib\src\stm32f10x_bkp.o
+ .bss           0x00000000        0x0 obj\debug\stm_lib\src\stm32f10x_bkp.o
+ .debug_macro   0x00000000      0x814 obj\debug\stm_lib\src\stm32f10x_bkp.o
+ .debug_macro   0x00000000       0x56 obj\debug\stm_lib\src\stm32f10x_bkp.o
+ .debug_macro   0x00000000       0x3a obj\debug\stm_lib\src\stm32f10x_bkp.o
+ .debug_macro   0x00000000       0x16 obj\debug\stm_lib\src\stm32f10x_bkp.o
+ .debug_macro   0x00000000       0x44 obj\debug\stm_lib\src\stm32f10x_bkp.o
+ .debug_macro   0x00000000      0x209 obj\debug\stm_lib\src\stm32f10x_bkp.o
+ .debug_macro   0x00000000       0x18 obj\debug\stm_lib\src\stm32f10x_bkp.o
+ .debug_macro   0x00000000      0xa8b obj\debug\stm_lib\src\stm32f10x_bkp.o
+ .debug_macro   0x00000000     0x7ea5 obj\debug\stm_lib\src\stm32f10x_bkp.o
+ .debug_macro   0x00000000      0x2df obj\debug\stm_lib\src\stm32f10x_bkp.o
+ .debug_macro   0x00000000      0x2ac obj\debug\stm_lib\src\stm32f10x_bkp.o
+ .debug_macro   0x00000000       0x35 obj\debug\stm_lib\src\stm32f10x_bkp.o
+ .debug_macro   0x00000000      0x13e obj\debug\stm_lib\src\stm32f10x_bkp.o
+ .debug_macro   0x00000000      0x461 obj\debug\stm_lib\src\stm32f10x_bkp.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_can.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_can.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_can.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_can.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_can.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_can.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_can.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_can.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_can.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_can.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_can.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_can.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_can.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_can.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_can.o
+ .text          0x00000000     0x122c obj\debug\stm_lib\src\stm32f10x_can.o
+ .data          0x00000000        0x0 obj\debug\stm_lib\src\stm32f10x_can.o
+ .bss           0x00000000        0x0 obj\debug\stm_lib\src\stm32f10x_can.o
+ .debug_info    0x00000000      0xca4 obj\debug\stm_lib\src\stm32f10x_can.o
+ .debug_abbrev  0x00000000      0x1da obj\debug\stm_lib\src\stm32f10x_can.o
+ .debug_loc     0x00000000      0x578 obj\debug\stm_lib\src\stm32f10x_can.o
+ .debug_aranges
+                0x00000000       0x20 obj\debug\stm_lib\src\stm32f10x_can.o
+ .debug_macro   0x00000000      0x124 obj\debug\stm_lib\src\stm32f10x_can.o
+ .debug_macro   0x00000000      0x814 obj\debug\stm_lib\src\stm32f10x_can.o
+ .debug_macro   0x00000000       0x56 obj\debug\stm_lib\src\stm32f10x_can.o
+ .debug_macro   0x00000000       0x3a obj\debug\stm_lib\src\stm32f10x_can.o
+ .debug_macro   0x00000000       0x16 obj\debug\stm_lib\src\stm32f10x_can.o
+ .debug_macro   0x00000000       0x44 obj\debug\stm_lib\src\stm32f10x_can.o
+ .debug_macro   0x00000000      0x209 obj\debug\stm_lib\src\stm32f10x_can.o
+ .debug_macro   0x00000000       0x18 obj\debug\stm_lib\src\stm32f10x_can.o
+ .debug_macro   0x00000000      0xa8b obj\debug\stm_lib\src\stm32f10x_can.o
+ .debug_macro   0x00000000     0x7ea5 obj\debug\stm_lib\src\stm32f10x_can.o
+ .debug_macro   0x00000000      0x2df obj\debug\stm_lib\src\stm32f10x_can.o
+ .debug_macro   0x00000000      0x144 obj\debug\stm_lib\src\stm32f10x_can.o
+ .debug_macro   0x00000000      0x2ac obj\debug\stm_lib\src\stm32f10x_can.o
+ .debug_macro   0x00000000       0x35 obj\debug\stm_lib\src\stm32f10x_can.o
+ .debug_macro   0x00000000      0x3c9 obj\debug\stm_lib\src\stm32f10x_can.o
+ .debug_macro   0x00000000      0x461 obj\debug\stm_lib\src\stm32f10x_can.o
+ .debug_line    0x00000000      0x5a1 obj\debug\stm_lib\src\stm32f10x_can.o
+ .debug_str     0x00000000    0x3bb93 obj\debug\stm_lib\src\stm32f10x_can.o
+ .comment       0x00000000       0x39 obj\debug\stm_lib\src\stm32f10x_can.o
+ .ARM.attributes
+                0x00000000       0x33 obj\debug\stm_lib\src\stm32f10x_can.o
+ .debug_frame   0x00000000      0x2d4 obj\debug\stm_lib\src\stm32f10x_can.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_cec.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_cec.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_cec.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_cec.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_cec.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_cec.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_cec.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_cec.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_cec.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_cec.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_cec.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_cec.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_cec.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_cec.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_cec.o
+ .text          0x00000000      0x2f8 obj\debug\stm_lib\src\stm32f10x_cec.o
+ .data          0x00000000        0x0 obj\debug\stm_lib\src\stm32f10x_cec.o
+ .bss           0x00000000        0x0 obj\debug\stm_lib\src\stm32f10x_cec.o
+ .debug_info    0x00000000      0x47e obj\debug\stm_lib\src\stm32f10x_cec.o
+ .debug_abbrev  0x00000000      0x1b3 obj\debug\stm_lib\src\stm32f10x_cec.o
+ .debug_loc     0x00000000      0x2ec obj\debug\stm_lib\src\stm32f10x_cec.o
+ .debug_aranges
+                0x00000000       0x20 obj\debug\stm_lib\src\stm32f10x_cec.o
+ .debug_macro   0x00000000      0x11e obj\debug\stm_lib\src\stm32f10x_cec.o
+ .debug_macro   0x00000000      0x814 obj\debug\stm_lib\src\stm32f10x_cec.o
+ .debug_macro   0x00000000       0x56 obj\debug\stm_lib\src\stm32f10x_cec.o
+ .debug_macro   0x00000000       0x3a obj\debug\stm_lib\src\stm32f10x_cec.o
+ .debug_macro   0x00000000       0x16 obj\debug\stm_lib\src\stm32f10x_cec.o
+ .debug_macro   0x00000000       0x44 obj\debug\stm_lib\src\stm32f10x_cec.o
+ .debug_macro   0x00000000      0x209 obj\debug\stm_lib\src\stm32f10x_cec.o
+ .debug_macro   0x00000000       0x18 obj\debug\stm_lib\src\stm32f10x_cec.o
+ .debug_macro   0x00000000      0xa8b obj\debug\stm_lib\src\stm32f10x_cec.o
+ .debug_macro   0x00000000     0x7ea5 obj\debug\stm_lib\src\stm32f10x_cec.o
+ .debug_macro   0x00000000      0x2df obj\debug\stm_lib\src\stm32f10x_cec.o
+ .debug_macro   0x00000000      0x144 obj\debug\stm_lib\src\stm32f10x_cec.o
+ .debug_macro   0x00000000      0x2ac obj\debug\stm_lib\src\stm32f10x_cec.o
+ .debug_macro   0x00000000       0x35 obj\debug\stm_lib\src\stm32f10x_cec.o
+ .debug_macro   0x00000000       0xc2 obj\debug\stm_lib\src\stm32f10x_cec.o
+ .debug_macro   0x00000000      0x461 obj\debug\stm_lib\src\stm32f10x_cec.o
+ .debug_line    0x00000000      0x3e2 obj\debug\stm_lib\src\stm32f10x_cec.o
+ .debug_str     0x00000000    0x3a44b obj\debug\stm_lib\src\stm32f10x_cec.o
+ .comment       0x00000000       0x39 obj\debug\stm_lib\src\stm32f10x_cec.o
+ .ARM.attributes
+                0x00000000       0x33 obj\debug\stm_lib\src\stm32f10x_cec.o
+ .debug_frame   0x00000000      0x190 obj\debug\stm_lib\src\stm32f10x_cec.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_crc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_crc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_crc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_crc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_crc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_crc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_crc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_crc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_crc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_crc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_crc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_crc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_crc.o
+ .text          0x00000000       0xe8 obj\debug\stm_lib\src\stm32f10x_crc.o
+ .data          0x00000000        0x0 obj\debug\stm_lib\src\stm32f10x_crc.o
+ .bss           0x00000000        0x0 obj\debug\stm_lib\src\stm32f10x_crc.o
+ .debug_info    0x00000000      0x23a obj\debug\stm_lib\src\stm32f10x_crc.o
+ .debug_abbrev  0x00000000      0x119 obj\debug\stm_lib\src\stm32f10x_crc.o
+ .debug_loc     0x00000000      0x12c obj\debug\stm_lib\src\stm32f10x_crc.o
+ .debug_aranges
+                0x00000000       0x20 obj\debug\stm_lib\src\stm32f10x_crc.o
+ .debug_macro   0x00000000       0xc2 obj\debug\stm_lib\src\stm32f10x_crc.o
+ .debug_macro   0x00000000      0x814 obj\debug\stm_lib\src\stm32f10x_crc.o
+ .debug_macro   0x00000000       0x56 obj\debug\stm_lib\src\stm32f10x_crc.o
+ .debug_macro   0x00000000       0x3a obj\debug\stm_lib\src\stm32f10x_crc.o
+ .debug_macro   0x00000000       0x16 obj\debug\stm_lib\src\stm32f10x_crc.o
+ .debug_macro   0x00000000       0x44 obj\debug\stm_lib\src\stm32f10x_crc.o
+ .debug_macro   0x00000000      0x209 obj\debug\stm_lib\src\stm32f10x_crc.o
+ .debug_macro   0x00000000       0x18 obj\debug\stm_lib\src\stm32f10x_crc.o
+ .debug_macro   0x00000000      0xa8b obj\debug\stm_lib\src\stm32f10x_crc.o
+ .debug_macro   0x00000000     0x7ea5 obj\debug\stm_lib\src\stm32f10x_crc.o
+ .debug_macro   0x00000000      0x2df obj\debug\stm_lib\src\stm32f10x_crc.o
+ .debug_macro   0x00000000      0x144 obj\debug\stm_lib\src\stm32f10x_crc.o
+ .debug_macro   0x00000000      0x2ac obj\debug\stm_lib\src\stm32f10x_crc.o
+ .debug_macro   0x00000000       0x35 obj\debug\stm_lib\src\stm32f10x_crc.o
+ .debug_line    0x00000000      0x38e obj\debug\stm_lib\src\stm32f10x_crc.o
+ .debug_str     0x00000000    0x37699 obj\debug\stm_lib\src\stm32f10x_crc.o
+ .comment       0x00000000       0x39 obj\debug\stm_lib\src\stm32f10x_crc.o
+ .ARM.attributes
+                0x00000000       0x33 obj\debug\stm_lib\src\stm32f10x_crc.o
+ .debug_frame   0x00000000       0xac obj\debug\stm_lib\src\stm32f10x_crc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_dac.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_dac.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_dac.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_dac.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_dac.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_dac.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_dac.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_dac.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_dac.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_dac.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_dac.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_dac.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_dac.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_dac.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_dac.o
+ .text          0x00000000      0x520 obj\debug\stm_lib\src\stm32f10x_dac.o
+ .data          0x00000000        0x0 obj\debug\stm_lib\src\stm32f10x_dac.o
+ .bss           0x00000000        0x0 obj\debug\stm_lib\src\stm32f10x_dac.o
+ .debug_info    0x00000000      0x6b6 obj\debug\stm_lib\src\stm32f10x_dac.o
+ .debug_abbrev  0x00000000      0x181 obj\debug\stm_lib\src\stm32f10x_dac.o
+ .debug_loc     0x00000000      0x3ac obj\debug\stm_lib\src\stm32f10x_dac.o
+ .debug_aranges
+                0x00000000       0x20 obj\debug\stm_lib\src\stm32f10x_dac.o
+ .debug_macro   0x00000000       0xfa obj\debug\stm_lib\src\stm32f10x_dac.o
+ .debug_macro   0x00000000      0x814 obj\debug\stm_lib\src\stm32f10x_dac.o
+ .debug_macro   0x00000000       0x56 obj\debug\stm_lib\src\stm32f10x_dac.o
+ .debug_macro   0x00000000       0x3a obj\debug\stm_lib\src\stm32f10x_dac.o
+ .debug_macro   0x00000000       0x16 obj\debug\stm_lib\src\stm32f10x_dac.o
+ .debug_macro   0x00000000       0x44 obj\debug\stm_lib\src\stm32f10x_dac.o
+ .debug_macro   0x00000000      0x209 obj\debug\stm_lib\src\stm32f10x_dac.o
+ .debug_macro   0x00000000       0x18 obj\debug\stm_lib\src\stm32f10x_dac.o
+ .debug_macro   0x00000000      0xa8b obj\debug\stm_lib\src\stm32f10x_dac.o
+ .debug_macro   0x00000000     0x7ea5 obj\debug\stm_lib\src\stm32f10x_dac.o
+ .debug_macro   0x00000000      0x2df obj\debug\stm_lib\src\stm32f10x_dac.o
+ .debug_macro   0x00000000      0x144 obj\debug\stm_lib\src\stm32f10x_dac.o
+ .debug_macro   0x00000000      0x2ac obj\debug\stm_lib\src\stm32f10x_dac.o
+ .debug_macro   0x00000000       0x35 obj\debug\stm_lib\src\stm32f10x_dac.o
+ .debug_macro   0x00000000      0x190 obj\debug\stm_lib\src\stm32f10x_dac.o
+ .debug_macro   0x00000000      0x461 obj\debug\stm_lib\src\stm32f10x_dac.o
+ .debug_line    0x00000000      0x40d obj\debug\stm_lib\src\stm32f10x_dac.o
+ .debug_str     0x00000000    0x3ade1 obj\debug\stm_lib\src\stm32f10x_dac.o
+ .comment       0x00000000       0x39 obj\debug\stm_lib\src\stm32f10x_dac.o
+ .ARM.attributes
+                0x00000000       0x33 obj\debug\stm_lib\src\stm32f10x_dac.o
+ .debug_frame   0x00000000      0x1ec obj\debug\stm_lib\src\stm32f10x_dac.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_dbgmcu.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_dbgmcu.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_dbgmcu.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_dbgmcu.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_dbgmcu.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_dbgmcu.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_dbgmcu.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_dbgmcu.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_dbgmcu.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_dbgmcu.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_dbgmcu.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_dbgmcu.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_dbgmcu.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_dbgmcu.o
+ .text          0x00000000       0x90 obj\debug\stm_lib\src\stm32f10x_dbgmcu.o
+ .data          0x00000000        0x0 obj\debug\stm_lib\src\stm32f10x_dbgmcu.o
+ .bss           0x00000000        0x0 obj\debug\stm_lib\src\stm32f10x_dbgmcu.o
+ .debug_info    0x00000000      0x17b obj\debug\stm_lib\src\stm32f10x_dbgmcu.o
+ .debug_abbrev  0x00000000       0xe3 obj\debug\stm_lib\src\stm32f10x_dbgmcu.o
+ .debug_loc     0x00000000       0x90 obj\debug\stm_lib\src\stm32f10x_dbgmcu.o
+ .debug_aranges
+                0x00000000       0x20 obj\debug\stm_lib\src\stm32f10x_dbgmcu.o
+ .debug_macro   0x00000000       0xcd obj\debug\stm_lib\src\stm32f10x_dbgmcu.o
+ .debug_macro   0x00000000      0x814 obj\debug\stm_lib\src\stm32f10x_dbgmcu.o
+ .debug_macro   0x00000000       0x56 obj\debug\stm_lib\src\stm32f10x_dbgmcu.o
+ .debug_macro   0x00000000       0x3a obj\debug\stm_lib\src\stm32f10x_dbgmcu.o
+ .debug_macro   0x00000000       0x16 obj\debug\stm_lib\src\stm32f10x_dbgmcu.o
+ .debug_macro   0x00000000       0x44 obj\debug\stm_lib\src\stm32f10x_dbgmcu.o
+ .debug_macro   0x00000000      0x209 obj\debug\stm_lib\src\stm32f10x_dbgmcu.o
+ .debug_macro   0x00000000       0x18 obj\debug\stm_lib\src\stm32f10x_dbgmcu.o
+ .debug_macro   0x00000000      0xa8b obj\debug\stm_lib\src\stm32f10x_dbgmcu.o
+ .debug_macro   0x00000000     0x7ea5 obj\debug\stm_lib\src\stm32f10x_dbgmcu.o
+ .debug_macro   0x00000000      0x2df obj\debug\stm_lib\src\stm32f10x_dbgmcu.o
+ .debug_macro   0x00000000      0x144 obj\debug\stm_lib\src\stm32f10x_dbgmcu.o
+ .debug_macro   0x00000000      0x2ac obj\debug\stm_lib\src\stm32f10x_dbgmcu.o
+ .debug_macro   0x00000000       0x35 obj\debug\stm_lib\src\stm32f10x_dbgmcu.o
+ .debug_macro   0x00000000       0xa6 obj\debug\stm_lib\src\stm32f10x_dbgmcu.o
+ .debug_line    0x00000000      0x379 obj\debug\stm_lib\src\stm32f10x_dbgmcu.o
+ .debug_str     0x00000000    0x37aee obj\debug\stm_lib\src\stm32f10x_dbgmcu.o
+ .comment       0x00000000       0x39 obj\debug\stm_lib\src\stm32f10x_dbgmcu.o
+ .ARM.attributes
+                0x00000000       0x33 obj\debug\stm_lib\src\stm32f10x_dbgmcu.o
+ .debug_frame   0x00000000       0x5c obj\debug\stm_lib\src\stm32f10x_dbgmcu.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_dma.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_dma.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_dma.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_dma.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_dma.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_dma.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_dma.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_dma.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_dma.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_dma.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_dma.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_dma.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_dma.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_dma.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_dma.o
+ .text          0x00000000      0x4e8 obj\debug\stm_lib\src\stm32f10x_dma.o
+ .data          0x00000000        0x0 obj\debug\stm_lib\src\stm32f10x_dma.o
+ .bss           0x00000000        0x0 obj\debug\stm_lib\src\stm32f10x_dma.o
+ .debug_info    0x00000000      0x4d6 obj\debug\stm_lib\src\stm32f10x_dma.o
+ .debug_abbrev  0x00000000      0x15a obj\debug\stm_lib\src\stm32f10x_dma.o
+ .debug_loc     0x00000000      0x268 obj\debug\stm_lib\src\stm32f10x_dma.o
+ .debug_aranges
+                0x00000000       0x20 obj\debug\stm_lib\src\stm32f10x_dma.o
+ .debug_macro   0x00000000      0x124 obj\debug\stm_lib\src\stm32f10x_dma.o
+ .debug_macro   0x00000000      0x814 obj\debug\stm_lib\src\stm32f10x_dma.o
+ .debug_macro   0x00000000       0x56 obj\debug\stm_lib\src\stm32f10x_dma.o
+ .debug_macro   0x00000000       0x3a obj\debug\stm_lib\src\stm32f10x_dma.o
+ .debug_macro   0x00000000       0x16 obj\debug\stm_lib\src\stm32f10x_dma.o
+ .debug_macro   0x00000000       0x44 obj\debug\stm_lib\src\stm32f10x_dma.o
+ .debug_macro   0x00000000      0x209 obj\debug\stm_lib\src\stm32f10x_dma.o
+ .debug_macro   0x00000000       0x18 obj\debug\stm_lib\src\stm32f10x_dma.o
+ .debug_macro   0x00000000      0xa8b obj\debug\stm_lib\src\stm32f10x_dma.o
+ .debug_macro   0x00000000     0x7ea5 obj\debug\stm_lib\src\stm32f10x_dma.o
+ .debug_macro   0x00000000      0x2df obj\debug\stm_lib\src\stm32f10x_dma.o
+ .debug_macro   0x00000000      0x144 obj\debug\stm_lib\src\stm32f10x_dma.o
+ .debug_macro   0x00000000      0x2ac obj\debug\stm_lib\src\stm32f10x_dma.o
+ .debug_macro   0x00000000       0x35 obj\debug\stm_lib\src\stm32f10x_dma.o
+ .debug_macro   0x00000000      0x3a7 obj\debug\stm_lib\src\stm32f10x_dma.o
+ .debug_macro   0x00000000      0x461 obj\debug\stm_lib\src\stm32f10x_dma.o
+ .debug_line    0x00000000      0x401 obj\debug\stm_lib\src\stm32f10x_dma.o
+ .debug_str     0x00000000    0x3c304 obj\debug\stm_lib\src\stm32f10x_dma.o
+ .comment       0x00000000       0x39 obj\debug\stm_lib\src\stm32f10x_dma.o
+ .ARM.attributes
+                0x00000000       0x33 obj\debug\stm_lib\src\stm32f10x_dma.o
+ .debug_frame   0x00000000      0x144 obj\debug\stm_lib\src\stm32f10x_dma.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_exti.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_exti.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_exti.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_exti.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_exti.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_exti.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_exti.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_exti.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_exti.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_exti.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_exti.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_exti.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_exti.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_exti.o
+ .data          0x00000000        0x0 obj\debug\stm_lib\src\stm32f10x_exti.o
+ .bss           0x00000000        0x0 obj\debug\stm_lib\src\stm32f10x_exti.o
+ .debug_macro   0x00000000      0x814 obj\debug\stm_lib\src\stm32f10x_exti.o
+ .debug_macro   0x00000000       0x56 obj\debug\stm_lib\src\stm32f10x_exti.o
+ .debug_macro   0x00000000       0x3a obj\debug\stm_lib\src\stm32f10x_exti.o
+ .debug_macro   0x00000000       0x16 obj\debug\stm_lib\src\stm32f10x_exti.o
+ .debug_macro   0x00000000       0x44 obj\debug\stm_lib\src\stm32f10x_exti.o
+ .debug_macro   0x00000000      0x209 obj\debug\stm_lib\src\stm32f10x_exti.o
+ .debug_macro   0x00000000       0x18 obj\debug\stm_lib\src\stm32f10x_exti.o
+ .debug_macro   0x00000000      0xa8b obj\debug\stm_lib\src\stm32f10x_exti.o
+ .debug_macro   0x00000000     0x7ea5 obj\debug\stm_lib\src\stm32f10x_exti.o
+ .debug_macro   0x00000000      0x2df obj\debug\stm_lib\src\stm32f10x_exti.o
+ .debug_macro   0x00000000      0x144 obj\debug\stm_lib\src\stm32f10x_exti.o
+ .debug_macro   0x00000000      0x2ac obj\debug\stm_lib\src\stm32f10x_exti.o
+ .debug_macro   0x00000000       0x35 obj\debug\stm_lib\src\stm32f10x_exti.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_flash.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_flash.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_flash.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_flash.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_flash.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_flash.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_flash.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_flash.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_flash.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_flash.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_flash.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_flash.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_flash.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_flash.o
+ .text          0x00000000      0xc54 obj\debug\stm_lib\src\stm32f10x_flash.o
+ .data          0x00000000        0x0 obj\debug\stm_lib\src\stm32f10x_flash.o
+ .bss           0x00000000        0x0 obj\debug\stm_lib\src\stm32f10x_flash.o
+ .debug_info    0x00000000      0x869 obj\debug\stm_lib\src\stm32f10x_flash.o
+ .debug_abbrev  0x00000000      0x190 obj\debug\stm_lib\src\stm32f10x_flash.o
+ .debug_loc     0x00000000      0x5d8 obj\debug\stm_lib\src\stm32f10x_flash.o
+ .debug_aranges
+                0x00000000       0x20 obj\debug\stm_lib\src\stm32f10x_flash.o
+ .debug_macro   0x00000000      0x16f obj\debug\stm_lib\src\stm32f10x_flash.o
+ .debug_macro   0x00000000      0x814 obj\debug\stm_lib\src\stm32f10x_flash.o
+ .debug_macro   0x00000000       0x56 obj\debug\stm_lib\src\stm32f10x_flash.o
+ .debug_macro   0x00000000       0x3a obj\debug\stm_lib\src\stm32f10x_flash.o
+ .debug_macro   0x00000000       0x16 obj\debug\stm_lib\src\stm32f10x_flash.o
+ .debug_macro   0x00000000       0x44 obj\debug\stm_lib\src\stm32f10x_flash.o
+ .debug_macro   0x00000000      0x209 obj\debug\stm_lib\src\stm32f10x_flash.o
+ .debug_macro   0x00000000       0x18 obj\debug\stm_lib\src\stm32f10x_flash.o
+ .debug_macro   0x00000000      0xa8b obj\debug\stm_lib\src\stm32f10x_flash.o
+ .debug_macro   0x00000000     0x7ea5 obj\debug\stm_lib\src\stm32f10x_flash.o
+ .debug_macro   0x00000000      0x2df obj\debug\stm_lib\src\stm32f10x_flash.o
+ .debug_macro   0x00000000      0x144 obj\debug\stm_lib\src\stm32f10x_flash.o
+ .debug_macro   0x00000000      0x2ac obj\debug\stm_lib\src\stm32f10x_flash.o
+ .debug_macro   0x00000000       0x35 obj\debug\stm_lib\src\stm32f10x_flash.o
+ .debug_macro   0x00000000      0x2c9 obj\debug\stm_lib\src\stm32f10x_flash.o
+ .debug_line    0x00000000      0x4e8 obj\debug\stm_lib\src\stm32f10x_flash.o
+ .debug_str     0x00000000    0x39415 obj\debug\stm_lib\src\stm32f10x_flash.o
+ .comment       0x00000000       0x39 obj\debug\stm_lib\src\stm32f10x_flash.o
+ .ARM.attributes
+                0x00000000       0x33 obj\debug\stm_lib\src\stm32f10x_flash.o
+ .debug_frame   0x00000000      0x338 obj\debug\stm_lib\src\stm32f10x_flash.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_fsmc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_fsmc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_fsmc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_fsmc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_fsmc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_fsmc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_fsmc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_fsmc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_fsmc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_fsmc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_fsmc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_fsmc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_fsmc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_fsmc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_fsmc.o
+ .text          0x00000000      0xbac obj\debug\stm_lib\src\stm32f10x_fsmc.o
+ .data          0x00000000        0x0 obj\debug\stm_lib\src\stm32f10x_fsmc.o
+ .bss           0x00000000        0x0 obj\debug\stm_lib\src\stm32f10x_fsmc.o
+ .debug_info    0x00000000      0x9d5 obj\debug\stm_lib\src\stm32f10x_fsmc.o
+ .debug_abbrev  0x00000000      0x175 obj\debug\stm_lib\src\stm32f10x_fsmc.o
+ .debug_loc     0x00000000      0x41c obj\debug\stm_lib\src\stm32f10x_fsmc.o
+ .debug_aranges
+                0x00000000       0x20 obj\debug\stm_lib\src\stm32f10x_fsmc.o
+ .debug_macro   0x00000000      0x100 obj\debug\stm_lib\src\stm32f10x_fsmc.o
+ .debug_macro   0x00000000      0x814 obj\debug\stm_lib\src\stm32f10x_fsmc.o
+ .debug_macro   0x00000000       0x56 obj\debug\stm_lib\src\stm32f10x_fsmc.o
+ .debug_macro   0x00000000       0x3a obj\debug\stm_lib\src\stm32f10x_fsmc.o
+ .debug_macro   0x00000000       0x16 obj\debug\stm_lib\src\stm32f10x_fsmc.o
+ .debug_macro   0x00000000       0x44 obj\debug\stm_lib\src\stm32f10x_fsmc.o
+ .debug_macro   0x00000000      0x209 obj\debug\stm_lib\src\stm32f10x_fsmc.o
+ .debug_macro   0x00000000       0x18 obj\debug\stm_lib\src\stm32f10x_fsmc.o
+ .debug_macro   0x00000000      0xa8b obj\debug\stm_lib\src\stm32f10x_fsmc.o
+ .debug_macro   0x00000000     0x7ea5 obj\debug\stm_lib\src\stm32f10x_fsmc.o
+ .debug_macro   0x00000000      0x2df obj\debug\stm_lib\src\stm32f10x_fsmc.o
+ .debug_macro   0x00000000      0x144 obj\debug\stm_lib\src\stm32f10x_fsmc.o
+ .debug_macro   0x00000000      0x2ac obj\debug\stm_lib\src\stm32f10x_fsmc.o
+ .debug_macro   0x00000000       0x35 obj\debug\stm_lib\src\stm32f10x_fsmc.o
+ .debug_macro   0x00000000      0x273 obj\debug\stm_lib\src\stm32f10x_fsmc.o
+ .debug_macro   0x00000000      0x461 obj\debug\stm_lib\src\stm32f10x_fsmc.o
+ .debug_line    0x00000000      0x4e9 obj\debug\stm_lib\src\stm32f10x_fsmc.o
+ .debug_str     0x00000000    0x3b7fe obj\debug\stm_lib\src\stm32f10x_fsmc.o
+ .comment       0x00000000       0x39 obj\debug\stm_lib\src\stm32f10x_fsmc.o
+ .ARM.attributes
+                0x00000000       0x33 obj\debug\stm_lib\src\stm32f10x_fsmc.o
+ .debug_frame   0x00000000      0x220 obj\debug\stm_lib\src\stm32f10x_fsmc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_gpio.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_gpio.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_gpio.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_gpio.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_gpio.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_gpio.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_gpio.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_gpio.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_gpio.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_gpio.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_gpio.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_gpio.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_gpio.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_gpio.o
+ .text          0x00000000      0x760 obj\debug\stm_lib\src\stm32f10x_gpio.o
+ .data          0x00000000        0x0 obj\debug\stm_lib\src\stm32f10x_gpio.o
+ .bss           0x00000000        0x0 obj\debug\stm_lib\src\stm32f10x_gpio.o
+ .debug_info    0x00000000      0x769 obj\debug\stm_lib\src\stm32f10x_gpio.o
+ .debug_abbrev  0x00000000      0x1cd obj\debug\stm_lib\src\stm32f10x_gpio.o
+ .debug_loc     0x00000000      0x3e4 obj\debug\stm_lib\src\stm32f10x_gpio.o
+ .debug_aranges
+                0x00000000       0x20 obj\debug\stm_lib\src\stm32f10x_gpio.o
+ .debug_macro   0x00000000      0x119 obj\debug\stm_lib\src\stm32f10x_gpio.o
+ .debug_macro   0x00000000      0x814 obj\debug\stm_lib\src\stm32f10x_gpio.o
+ .debug_macro   0x00000000       0x56 obj\debug\stm_lib\src\stm32f10x_gpio.o
+ .debug_macro   0x00000000       0x3a obj\debug\stm_lib\src\stm32f10x_gpio.o
+ .debug_macro   0x00000000       0x16 obj\debug\stm_lib\src\stm32f10x_gpio.o
+ .debug_macro   0x00000000       0x44 obj\debug\stm_lib\src\stm32f10x_gpio.o
+ .debug_macro   0x00000000      0x209 obj\debug\stm_lib\src\stm32f10x_gpio.o
+ .debug_macro   0x00000000       0x18 obj\debug\stm_lib\src\stm32f10x_gpio.o
+ .debug_macro   0x00000000      0xa8b obj\debug\stm_lib\src\stm32f10x_gpio.o
+ .debug_macro   0x00000000     0x7ea5 obj\debug\stm_lib\src\stm32f10x_gpio.o
+ .debug_macro   0x00000000      0x2df obj\debug\stm_lib\src\stm32f10x_gpio.o
+ .debug_macro   0x00000000      0x144 obj\debug\stm_lib\src\stm32f10x_gpio.o
+ .debug_macro   0x00000000       0x35 obj\debug\stm_lib\src\stm32f10x_gpio.o
+ .debug_macro   0x00000000      0x2a6 obj\debug\stm_lib\src\stm32f10x_gpio.o
+ .debug_macro   0x00000000      0x461 obj\debug\stm_lib\src\stm32f10x_gpio.o
+ .debug_line    0x00000000      0x43a obj\debug\stm_lib\src\stm32f10x_gpio.o
+ .debug_str     0x00000000    0x39f55 obj\debug\stm_lib\src\stm32f10x_gpio.o
+ .comment       0x00000000       0x39 obj\debug\stm_lib\src\stm32f10x_gpio.o
+ .ARM.attributes
+                0x00000000       0x33 obj\debug\stm_lib\src\stm32f10x_gpio.o
+ .debug_frame   0x00000000      0x210 obj\debug\stm_lib\src\stm32f10x_gpio.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_i2c.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_i2c.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_i2c.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_i2c.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_i2c.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_i2c.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_i2c.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_i2c.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_i2c.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_i2c.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_i2c.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_i2c.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_i2c.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_i2c.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_i2c.o
+ .text          0x00000000      0x9f8 obj\debug\stm_lib\src\stm32f10x_i2c.o
+ .data          0x00000000        0x0 obj\debug\stm_lib\src\stm32f10x_i2c.o
+ .bss           0x00000000        0x0 obj\debug\stm_lib\src\stm32f10x_i2c.o
+ .debug_info    0x00000000      0xbe9 obj\debug\stm_lib\src\stm32f10x_i2c.o
+ .debug_abbrev  0x00000000      0x169 obj\debug\stm_lib\src\stm32f10x_i2c.o
+ .debug_loc     0x00000000      0x738 obj\debug\stm_lib\src\stm32f10x_i2c.o
+ .debug_aranges
+                0x00000000       0x20 obj\debug\stm_lib\src\stm32f10x_i2c.o
+ .debug_macro   0x00000000      0x1a2 obj\debug\stm_lib\src\stm32f10x_i2c.o
+ .debug_macro   0x00000000      0x814 obj\debug\stm_lib\src\stm32f10x_i2c.o
+ .debug_macro   0x00000000       0x56 obj\debug\stm_lib\src\stm32f10x_i2c.o
+ .debug_macro   0x00000000       0x3a obj\debug\stm_lib\src\stm32f10x_i2c.o
+ .debug_macro   0x00000000       0x16 obj\debug\stm_lib\src\stm32f10x_i2c.o
+ .debug_macro   0x00000000       0x44 obj\debug\stm_lib\src\stm32f10x_i2c.o
+ .debug_macro   0x00000000      0x209 obj\debug\stm_lib\src\stm32f10x_i2c.o
+ .debug_macro   0x00000000       0x18 obj\debug\stm_lib\src\stm32f10x_i2c.o
+ .debug_macro   0x00000000      0xa8b obj\debug\stm_lib\src\stm32f10x_i2c.o
+ .debug_macro   0x00000000     0x7ea5 obj\debug\stm_lib\src\stm32f10x_i2c.o
+ .debug_macro   0x00000000      0x2df obj\debug\stm_lib\src\stm32f10x_i2c.o
+ .debug_macro   0x00000000      0x144 obj\debug\stm_lib\src\stm32f10x_i2c.o
+ .debug_macro   0x00000000      0x2ac obj\debug\stm_lib\src\stm32f10x_i2c.o
+ .debug_macro   0x00000000       0x35 obj\debug\stm_lib\src\stm32f10x_i2c.o
+ .debug_macro   0x00000000      0x2ab obj\debug\stm_lib\src\stm32f10x_i2c.o
+ .debug_macro   0x00000000      0x461 obj\debug\stm_lib\src\stm32f10x_i2c.o
+ .debug_line    0x00000000      0x49f obj\debug\stm_lib\src\stm32f10x_i2c.o
+ .debug_str     0x00000000    0x3bf12 obj\debug\stm_lib\src\stm32f10x_i2c.o
+ .comment       0x00000000       0x39 obj\debug\stm_lib\src\stm32f10x_i2c.o
+ .ARM.attributes
+                0x00000000       0x33 obj\debug\stm_lib\src\stm32f10x_i2c.o
+ .debug_frame   0x00000000      0x3b4 obj\debug\stm_lib\src\stm32f10x_i2c.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_iwdg.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_iwdg.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_iwdg.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_iwdg.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_iwdg.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_iwdg.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_iwdg.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_iwdg.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_iwdg.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_iwdg.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_iwdg.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_iwdg.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_iwdg.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_iwdg.o
+ .data          0x00000000        0x0 obj\debug\stm_lib\src\stm32f10x_iwdg.o
+ .bss           0x00000000        0x0 obj\debug\stm_lib\src\stm32f10x_iwdg.o
+ .debug_macro   0x00000000      0x814 obj\debug\stm_lib\src\stm32f10x_iwdg.o
+ .debug_macro   0x00000000       0x56 obj\debug\stm_lib\src\stm32f10x_iwdg.o
+ .debug_macro   0x00000000       0x3a obj\debug\stm_lib\src\stm32f10x_iwdg.o
+ .debug_macro   0x00000000       0x16 obj\debug\stm_lib\src\stm32f10x_iwdg.o
+ .debug_macro   0x00000000       0x44 obj\debug\stm_lib\src\stm32f10x_iwdg.o
+ .debug_macro   0x00000000      0x209 obj\debug\stm_lib\src\stm32f10x_iwdg.o
+ .debug_macro   0x00000000       0x18 obj\debug\stm_lib\src\stm32f10x_iwdg.o
+ .debug_macro   0x00000000      0xa8b obj\debug\stm_lib\src\stm32f10x_iwdg.o
+ .debug_macro   0x00000000     0x7ea5 obj\debug\stm_lib\src\stm32f10x_iwdg.o
+ .debug_macro   0x00000000      0x2df obj\debug\stm_lib\src\stm32f10x_iwdg.o
+ .debug_macro   0x00000000      0x144 obj\debug\stm_lib\src\stm32f10x_iwdg.o
+ .debug_macro   0x00000000      0x2ac obj\debug\stm_lib\src\stm32f10x_iwdg.o
+ .debug_macro   0x00000000       0x35 obj\debug\stm_lib\src\stm32f10x_iwdg.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_pwr.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_pwr.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_pwr.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_pwr.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_pwr.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_pwr.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_pwr.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_pwr.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_pwr.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_pwr.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_pwr.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_pwr.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_pwr.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_pwr.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_pwr.o
+ .data          0x00000000        0x0 obj\debug\stm_lib\src\stm32f10x_pwr.o
+ .bss           0x00000000        0x0 obj\debug\stm_lib\src\stm32f10x_pwr.o
+ .debug_macro   0x00000000      0x814 obj\debug\stm_lib\src\stm32f10x_pwr.o
+ .debug_macro   0x00000000       0x56 obj\debug\stm_lib\src\stm32f10x_pwr.o
+ .debug_macro   0x00000000       0x3a obj\debug\stm_lib\src\stm32f10x_pwr.o
+ .debug_macro   0x00000000       0x16 obj\debug\stm_lib\src\stm32f10x_pwr.o
+ .debug_macro   0x00000000       0x44 obj\debug\stm_lib\src\stm32f10x_pwr.o
+ .debug_macro   0x00000000      0x209 obj\debug\stm_lib\src\stm32f10x_pwr.o
+ .debug_macro   0x00000000       0x18 obj\debug\stm_lib\src\stm32f10x_pwr.o
+ .debug_macro   0x00000000      0xa8b obj\debug\stm_lib\src\stm32f10x_pwr.o
+ .debug_macro   0x00000000     0x7ea5 obj\debug\stm_lib\src\stm32f10x_pwr.o
+ .debug_macro   0x00000000      0x2df obj\debug\stm_lib\src\stm32f10x_pwr.o
+ .debug_macro   0x00000000      0x144 obj\debug\stm_lib\src\stm32f10x_pwr.o
+ .debug_macro   0x00000000      0x2ac obj\debug\stm_lib\src\stm32f10x_pwr.o
+ .debug_macro   0x00000000       0x35 obj\debug\stm_lib\src\stm32f10x_pwr.o
+ .debug_macro   0x00000000      0x461 obj\debug\stm_lib\src\stm32f10x_pwr.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_rcc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_rcc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_rcc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_rcc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_rcc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_rcc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_rcc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_rcc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_rcc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_rcc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_rcc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_rcc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_rcc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_rcc.o
+ .bss           0x00000000        0x0 obj\debug\stm_lib\src\stm32f10x_rcc.o
+ .debug_macro   0x00000000      0x814 obj\debug\stm_lib\src\stm32f10x_rcc.o
+ .debug_macro   0x00000000       0x56 obj\debug\stm_lib\src\stm32f10x_rcc.o
+ .debug_macro   0x00000000       0x3a obj\debug\stm_lib\src\stm32f10x_rcc.o
+ .debug_macro   0x00000000       0x16 obj\debug\stm_lib\src\stm32f10x_rcc.o
+ .debug_macro   0x00000000       0x44 obj\debug\stm_lib\src\stm32f10x_rcc.o
+ .debug_macro   0x00000000      0x209 obj\debug\stm_lib\src\stm32f10x_rcc.o
+ .debug_macro   0x00000000       0x18 obj\debug\stm_lib\src\stm32f10x_rcc.o
+ .debug_macro   0x00000000      0xa8b obj\debug\stm_lib\src\stm32f10x_rcc.o
+ .debug_macro   0x00000000     0x7ea5 obj\debug\stm_lib\src\stm32f10x_rcc.o
+ .debug_macro   0x00000000      0x2df obj\debug\stm_lib\src\stm32f10x_rcc.o
+ .debug_macro   0x00000000      0x144 obj\debug\stm_lib\src\stm32f10x_rcc.o
+ .debug_macro   0x00000000      0x2ac obj\debug\stm_lib\src\stm32f10x_rcc.o
+ .debug_macro   0x00000000       0x35 obj\debug\stm_lib\src\stm32f10x_rcc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_rtc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_rtc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_rtc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_rtc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_rtc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_rtc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_rtc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_rtc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_rtc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_rtc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_rtc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_rtc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_rtc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_rtc.o
+ .data          0x00000000        0x0 obj\debug\stm_lib\src\stm32f10x_rtc.o
+ .bss           0x00000000        0x0 obj\debug\stm_lib\src\stm32f10x_rtc.o
+ .debug_macro   0x00000000      0x814 obj\debug\stm_lib\src\stm32f10x_rtc.o
+ .debug_macro   0x00000000       0x56 obj\debug\stm_lib\src\stm32f10x_rtc.o
+ .debug_macro   0x00000000       0x3a obj\debug\stm_lib\src\stm32f10x_rtc.o
+ .debug_macro   0x00000000       0x16 obj\debug\stm_lib\src\stm32f10x_rtc.o
+ .debug_macro   0x00000000       0x44 obj\debug\stm_lib\src\stm32f10x_rtc.o
+ .debug_macro   0x00000000      0x209 obj\debug\stm_lib\src\stm32f10x_rtc.o
+ .debug_macro   0x00000000       0x18 obj\debug\stm_lib\src\stm32f10x_rtc.o
+ .debug_macro   0x00000000      0xa8b obj\debug\stm_lib\src\stm32f10x_rtc.o
+ .debug_macro   0x00000000     0x7ea5 obj\debug\stm_lib\src\stm32f10x_rtc.o
+ .debug_macro   0x00000000      0x2df obj\debug\stm_lib\src\stm32f10x_rtc.o
+ .debug_macro   0x00000000      0x144 obj\debug\stm_lib\src\stm32f10x_rtc.o
+ .debug_macro   0x00000000      0x2ac obj\debug\stm_lib\src\stm32f10x_rtc.o
+ .debug_macro   0x00000000       0x35 obj\debug\stm_lib\src\stm32f10x_rtc.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_sdio.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_sdio.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_sdio.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_sdio.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_sdio.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_sdio.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_sdio.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_sdio.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_sdio.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_sdio.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_sdio.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_sdio.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_sdio.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_sdio.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_sdio.o
+ .text          0x00000000      0x5f8 obj\debug\stm_lib\src\stm32f10x_sdio.o
+ .data          0x00000000        0x0 obj\debug\stm_lib\src\stm32f10x_sdio.o
+ .bss           0x00000000        0x0 obj\debug\stm_lib\src\stm32f10x_sdio.o
+ .debug_info    0x00000000      0x8d6 obj\debug\stm_lib\src\stm32f10x_sdio.o
+ .debug_abbrev  0x00000000      0x1b4 obj\debug\stm_lib\src\stm32f10x_sdio.o
+ .debug_loc     0x00000000      0x648 obj\debug\stm_lib\src\stm32f10x_sdio.o
+ .debug_aranges
+                0x00000000       0x20 obj\debug\stm_lib\src\stm32f10x_sdio.o
+ .debug_macro   0x00000000      0x17e obj\debug\stm_lib\src\stm32f10x_sdio.o
+ .debug_macro   0x00000000      0x814 obj\debug\stm_lib\src\stm32f10x_sdio.o
+ .debug_macro   0x00000000       0x56 obj\debug\stm_lib\src\stm32f10x_sdio.o
+ .debug_macro   0x00000000       0x3a obj\debug\stm_lib\src\stm32f10x_sdio.o
+ .debug_macro   0x00000000       0x16 obj\debug\stm_lib\src\stm32f10x_sdio.o
+ .debug_macro   0x00000000       0x44 obj\debug\stm_lib\src\stm32f10x_sdio.o
+ .debug_macro   0x00000000      0x209 obj\debug\stm_lib\src\stm32f10x_sdio.o
+ .debug_macro   0x00000000       0x18 obj\debug\stm_lib\src\stm32f10x_sdio.o
+ .debug_macro   0x00000000      0xa8b obj\debug\stm_lib\src\stm32f10x_sdio.o
+ .debug_macro   0x00000000     0x7ea5 obj\debug\stm_lib\src\stm32f10x_sdio.o
+ .debug_macro   0x00000000      0x2df obj\debug\stm_lib\src\stm32f10x_sdio.o
+ .debug_macro   0x00000000      0x144 obj\debug\stm_lib\src\stm32f10x_sdio.o
+ .debug_macro   0x00000000      0x2ac obj\debug\stm_lib\src\stm32f10x_sdio.o
+ .debug_macro   0x00000000       0x35 obj\debug\stm_lib\src\stm32f10x_sdio.o
+ .debug_macro   0x00000000      0x33b obj\debug\stm_lib\src\stm32f10x_sdio.o
+ .debug_macro   0x00000000      0x461 obj\debug\stm_lib\src\stm32f10x_sdio.o
+ .debug_line    0x00000000      0x442 obj\debug\stm_lib\src\stm32f10x_sdio.o
+ .debug_str     0x00000000    0x3c305 obj\debug\stm_lib\src\stm32f10x_sdio.o
+ .comment       0x00000000       0x39 obj\debug\stm_lib\src\stm32f10x_sdio.o
+ .ARM.attributes
+                0x00000000       0x33 obj\debug\stm_lib\src\stm32f10x_sdio.o
+ .debug_frame   0x00000000      0x340 obj\debug\stm_lib\src\stm32f10x_sdio.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_spi.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_spi.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_spi.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_spi.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_spi.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_spi.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_spi.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_spi.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_spi.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_spi.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_spi.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_spi.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_spi.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_spi.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_spi.o
+ .text          0x00000000      0x7b4 obj\debug\stm_lib\src\stm32f10x_spi.o
+ .data          0x00000000        0x0 obj\debug\stm_lib\src\stm32f10x_spi.o
+ .bss           0x00000000        0x0 obj\debug\stm_lib\src\stm32f10x_spi.o
+ .debug_info    0x00000000      0x9bc obj\debug\stm_lib\src\stm32f10x_spi.o
+ .debug_abbrev  0x00000000      0x183 obj\debug\stm_lib\src\stm32f10x_spi.o
+ .debug_loc     0x00000000      0x508 obj\debug\stm_lib\src\stm32f10x_spi.o
+ .debug_aranges
+                0x00000000       0x20 obj\debug\stm_lib\src\stm32f10x_spi.o
+ .debug_macro   0x00000000      0x136 obj\debug\stm_lib\src\stm32f10x_spi.o
+ .debug_macro   0x00000000      0x814 obj\debug\stm_lib\src\stm32f10x_spi.o
+ .debug_macro   0x00000000       0x56 obj\debug\stm_lib\src\stm32f10x_spi.o
+ .debug_macro   0x00000000       0x3a obj\debug\stm_lib\src\stm32f10x_spi.o
+ .debug_macro   0x00000000       0x16 obj\debug\stm_lib\src\stm32f10x_spi.o
+ .debug_macro   0x00000000       0x44 obj\debug\stm_lib\src\stm32f10x_spi.o
+ .debug_macro   0x00000000      0x209 obj\debug\stm_lib\src\stm32f10x_spi.o
+ .debug_macro   0x00000000       0x18 obj\debug\stm_lib\src\stm32f10x_spi.o
+ .debug_macro   0x00000000      0xa8b obj\debug\stm_lib\src\stm32f10x_spi.o
+ .debug_macro   0x00000000     0x7ea5 obj\debug\stm_lib\src\stm32f10x_spi.o
+ .debug_macro   0x00000000      0x2df obj\debug\stm_lib\src\stm32f10x_spi.o
+ .debug_macro   0x00000000      0x144 obj\debug\stm_lib\src\stm32f10x_spi.o
+ .debug_macro   0x00000000      0x2ac obj\debug\stm_lib\src\stm32f10x_spi.o
+ .debug_macro   0x00000000       0x35 obj\debug\stm_lib\src\stm32f10x_spi.o
+ .debug_macro   0x00000000      0x2be obj\debug\stm_lib\src\stm32f10x_spi.o
+ .debug_macro   0x00000000      0x461 obj\debug\stm_lib\src\stm32f10x_spi.o
+ .debug_line    0x00000000      0x469 obj\debug\stm_lib\src\stm32f10x_spi.o
+ .debug_str     0x00000000    0x3b779 obj\debug\stm_lib\src\stm32f10x_spi.o
+ .comment       0x00000000       0x39 obj\debug\stm_lib\src\stm32f10x_spi.o
+ .ARM.attributes
+                0x00000000       0x33 obj\debug\stm_lib\src\stm32f10x_spi.o
+ .debug_frame   0x00000000      0x29c obj\debug\stm_lib\src\stm32f10x_spi.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_tim.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_tim.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_tim.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_tim.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_tim.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_tim.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_tim.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_tim.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_tim.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_tim.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_tim.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_tim.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_tim.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_tim.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_tim.o
+ .text          0x00000000     0x209c obj\debug\stm_lib\src\stm32f10x_tim.o
+ .data          0x00000000        0x0 obj\debug\stm_lib\src\stm32f10x_tim.o
+ .bss           0x00000000        0x0 obj\debug\stm_lib\src\stm32f10x_tim.o
+ .debug_info    0x00000000     0x1ea7 obj\debug\stm_lib\src\stm32f10x_tim.o
+ .debug_abbrev  0x00000000      0x1b5 obj\debug\stm_lib\src\stm32f10x_tim.o
+ .debug_loc     0x00000000     0x13e8 obj\debug\stm_lib\src\stm32f10x_tim.o
+ .debug_aranges
+                0x00000000       0x20 obj\debug\stm_lib\src\stm32f10x_tim.o
+ .debug_macro   0x00000000       0xe8 obj\debug\stm_lib\src\stm32f10x_tim.o
+ .debug_macro   0x00000000      0x814 obj\debug\stm_lib\src\stm32f10x_tim.o
+ .debug_macro   0x00000000       0x56 obj\debug\stm_lib\src\stm32f10x_tim.o
+ .debug_macro   0x00000000       0x3a obj\debug\stm_lib\src\stm32f10x_tim.o
+ .debug_macro   0x00000000       0x16 obj\debug\stm_lib\src\stm32f10x_tim.o
+ .debug_macro   0x00000000       0x44 obj\debug\stm_lib\src\stm32f10x_tim.o
+ .debug_macro   0x00000000      0x209 obj\debug\stm_lib\src\stm32f10x_tim.o
+ .debug_macro   0x00000000       0x18 obj\debug\stm_lib\src\stm32f10x_tim.o
+ .debug_macro   0x00000000      0xa8b obj\debug\stm_lib\src\stm32f10x_tim.o
+ .debug_macro   0x00000000     0x7ea5 obj\debug\stm_lib\src\stm32f10x_tim.o
+ .debug_macro   0x00000000      0x2df obj\debug\stm_lib\src\stm32f10x_tim.o
+ .debug_macro   0x00000000      0x144 obj\debug\stm_lib\src\stm32f10x_tim.o
+ .debug_macro   0x00000000      0x2ac obj\debug\stm_lib\src\stm32f10x_tim.o
+ .debug_macro   0x00000000       0x35 obj\debug\stm_lib\src\stm32f10x_tim.o
+ .debug_macro   0x00000000      0x70b obj\debug\stm_lib\src\stm32f10x_tim.o
+ .debug_macro   0x00000000      0x461 obj\debug\stm_lib\src\stm32f10x_tim.o
+ .debug_line    0x00000000      0x777 obj\debug\stm_lib\src\stm32f10x_tim.o
+ .debug_str     0x00000000    0x3eec4 obj\debug\stm_lib\src\stm32f10x_tim.o
+ .comment       0x00000000       0x39 obj\debug\stm_lib\src\stm32f10x_tim.o
+ .ARM.attributes
+                0x00000000       0x33 obj\debug\stm_lib\src\stm32f10x_tim.o
+ .debug_frame   0x00000000      0xa20 obj\debug\stm_lib\src\stm32f10x_tim.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_usart.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_usart.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_usart.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_usart.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_usart.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_usart.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_usart.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_usart.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_usart.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_usart.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_usart.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_usart.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_usart.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_usart.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_usart.o
+ .data          0x00000000        0x0 obj\debug\stm_lib\src\stm32f10x_usart.o
+ .bss           0x00000000        0x0 obj\debug\stm_lib\src\stm32f10x_usart.o
+ .debug_macro   0x00000000      0x814 obj\debug\stm_lib\src\stm32f10x_usart.o
+ .debug_macro   0x00000000       0x56 obj\debug\stm_lib\src\stm32f10x_usart.o
+ .debug_macro   0x00000000       0x3a obj\debug\stm_lib\src\stm32f10x_usart.o
+ .debug_macro   0x00000000       0x16 obj\debug\stm_lib\src\stm32f10x_usart.o
+ .debug_macro   0x00000000       0x44 obj\debug\stm_lib\src\stm32f10x_usart.o
+ .debug_macro   0x00000000      0x209 obj\debug\stm_lib\src\stm32f10x_usart.o
+ .debug_macro   0x00000000       0x18 obj\debug\stm_lib\src\stm32f10x_usart.o
+ .debug_macro   0x00000000      0xa8b obj\debug\stm_lib\src\stm32f10x_usart.o
+ .debug_macro   0x00000000     0x7ea5 obj\debug\stm_lib\src\stm32f10x_usart.o
+ .debug_macro   0x00000000      0x2df obj\debug\stm_lib\src\stm32f10x_usart.o
+ .debug_macro   0x00000000      0x144 obj\debug\stm_lib\src\stm32f10x_usart.o
+ .debug_macro   0x00000000      0x2ac obj\debug\stm_lib\src\stm32f10x_usart.o
+ .debug_macro   0x00000000       0x35 obj\debug\stm_lib\src\stm32f10x_usart.o
+ .debug_macro   0x00000000      0x461 obj\debug\stm_lib\src\stm32f10x_usart.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_wwdg.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_wwdg.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_wwdg.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_wwdg.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_wwdg.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_wwdg.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_wwdg.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_wwdg.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_wwdg.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_wwdg.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_wwdg.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_wwdg.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_wwdg.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_wwdg.o
+ .group         0x00000000        0x8 obj\debug\stm_lib\src\stm32f10x_wwdg.o
+ .text          0x00000000      0x140 obj\debug\stm_lib\src\stm32f10x_wwdg.o
+ .data          0x00000000        0x0 obj\debug\stm_lib\src\stm32f10x_wwdg.o
+ .bss           0x00000000        0x0 obj\debug\stm_lib\src\stm32f10x_wwdg.o
+ .debug_info    0x00000000      0x266 obj\debug\stm_lib\src\stm32f10x_wwdg.o
+ .debug_abbrev  0x00000000      0x11c obj\debug\stm_lib\src\stm32f10x_wwdg.o
+ .debug_loc     0x00000000      0x190 obj\debug\stm_lib\src\stm32f10x_wwdg.o
+ .debug_aranges
+                0x00000000       0x20 obj\debug\stm_lib\src\stm32f10x_wwdg.o
+ .debug_macro   0x00000000      0x100 obj\debug\stm_lib\src\stm32f10x_wwdg.o
+ .debug_macro   0x00000000      0x814 obj\debug\stm_lib\src\stm32f10x_wwdg.o
+ .debug_macro   0x00000000       0x56 obj\debug\stm_lib\src\stm32f10x_wwdg.o
+ .debug_macro   0x00000000       0x3a obj\debug\stm_lib\src\stm32f10x_wwdg.o
+ .debug_macro   0x00000000       0x16 obj\debug\stm_lib\src\stm32f10x_wwdg.o
+ .debug_macro   0x00000000       0x44 obj\debug\stm_lib\src\stm32f10x_wwdg.o
+ .debug_macro   0x00000000      0x209 obj\debug\stm_lib\src\stm32f10x_wwdg.o
+ .debug_macro   0x00000000       0x18 obj\debug\stm_lib\src\stm32f10x_wwdg.o
+ .debug_macro   0x00000000      0xa8b obj\debug\stm_lib\src\stm32f10x_wwdg.o
+ .debug_macro   0x00000000     0x7ea5 obj\debug\stm_lib\src\stm32f10x_wwdg.o
+ .debug_macro   0x00000000      0x2df obj\debug\stm_lib\src\stm32f10x_wwdg.o
+ .debug_macro   0x00000000      0x144 obj\debug\stm_lib\src\stm32f10x_wwdg.o
+ .debug_macro   0x00000000      0x2ac obj\debug\stm_lib\src\stm32f10x_wwdg.o
+ .debug_macro   0x00000000       0x35 obj\debug\stm_lib\src\stm32f10x_wwdg.o
+ .debug_macro   0x00000000       0x2e obj\debug\stm_lib\src\stm32f10x_wwdg.o
+ .debug_macro   0x00000000      0x461 obj\debug\stm_lib\src\stm32f10x_wwdg.o
+ .debug_line    0x00000000      0x3a2 obj\debug\stm_lib\src\stm32f10x_wwdg.o
+ .debug_str     0x00000000    0x39d53 obj\debug\stm_lib\src\stm32f10x_wwdg.o
+ .comment       0x00000000       0x39 obj\debug\stm_lib\src\stm32f10x_wwdg.o
+ .ARM.attributes
+                0x00000000       0x33 obj\debug\stm_lib\src\stm32f10x_wwdg.o
+ .debug_frame   0x00000000       0xe4 obj\debug\stm_lib\src\stm32f10x_wwdg.o
+ .group         0x00000000        0x8 obj\debug\templates\startup_stm32f10x_md_vl.o
+ .data          0x00000000        0x0 obj\debug\templates\startup_stm32f10x_md_vl.o
+ .bss           0x00000000        0x0 obj\debug\templates\startup_stm32f10x_md_vl.o
+ .debug_macro   0x00000000      0x814 obj\debug\templates\startup_stm32f10x_md_vl.o
+ .group         0x00000000        0x8 obj\debug\templates\stm32f10x_it.o
+ .group         0x00000000        0x8 obj\debug\templates\stm32f10x_it.o
+ .group         0x00000000        0x8 obj\debug\templates\stm32f10x_it.o
+ .group         0x00000000        0x8 obj\debug\templates\stm32f10x_it.o
+ .group         0x00000000        0x8 obj\debug\templates\stm32f10x_it.o
+ .group         0x00000000        0x8 obj\debug\templates\stm32f10x_it.o
+ .group         0x00000000        0x8 obj\debug\templates\stm32f10x_it.o
+ .group         0x00000000        0x8 obj\debug\templates\stm32f10x_it.o
+ .group         0x00000000        0x8 obj\debug\templates\stm32f10x_it.o
+ .group         0x00000000        0x8 obj\debug\templates\stm32f10x_it.o
+ .group         0x00000000        0x8 obj\debug\templates\stm32f10x_it.o
+ .group         0x00000000        0x8 obj\debug\templates\stm32f10x_it.o
+ .group         0x00000000        0x8 obj\debug\templates\stm32f10x_it.o
+ .data          0x00000000        0x0 obj\debug\templates\stm32f10x_it.o
+ .bss           0x00000000        0x0 obj\debug\templates\stm32f10x_it.o
+ .debug_macro   0x00000000      0x814 obj\debug\templates\stm32f10x_it.o
+ .debug_macro   0x00000000       0x56 obj\debug\templates\stm32f10x_it.o
+ .debug_macro   0x00000000       0x3a obj\debug\templates\stm32f10x_it.o
+ .debug_macro   0x00000000       0x16 obj\debug\templates\stm32f10x_it.o
+ .debug_macro   0x00000000       0x44 obj\debug\templates\stm32f10x_it.o
+ .debug_macro   0x00000000      0x209 obj\debug\templates\stm32f10x_it.o
+ .debug_macro   0x00000000       0x18 obj\debug\templates\stm32f10x_it.o
+ .debug_macro   0x00000000      0xa8b obj\debug\templates\stm32f10x_it.o
+ .debug_macro   0x00000000     0x7ea5 obj\debug\templates\stm32f10x_it.o
+ .debug_macro   0x00000000      0x2df obj\debug\templates\stm32f10x_it.o
+ .debug_macro   0x00000000      0x144 obj\debug\templates\stm32f10x_it.o
+ .debug_macro   0x00000000      0x2ac obj\debug\templates\stm32f10x_it.o
+ .debug_macro   0x00000000       0x35 obj\debug\templates\stm32f10x_it.o
+ .group         0x00000000        0x8 obj\debug\templates\system_stm32f10x.o
+ .group         0x00000000        0x8 obj\debug\templates\system_stm32f10x.o
+ .group         0x00000000        0x8 obj\debug\templates\system_stm32f10x.o
+ .group         0x00000000        0x8 obj\debug\templates\system_stm32f10x.o
+ .group         0x00000000        0x8 obj\debug\templates\system_stm32f10x.o
+ .group         0x00000000        0x8 obj\debug\templates\system_stm32f10x.o
+ .group         0x00000000        0x8 obj\debug\templates\system_stm32f10x.o
+ .group         0x00000000        0x8 obj\debug\templates\system_stm32f10x.o
+ .group         0x00000000        0x8 obj\debug\templates\system_stm32f10x.o
+ .group         0x00000000        0x8 obj\debug\templates\system_stm32f10x.o
+ .group         0x00000000        0x8 obj\debug\templates\system_stm32f10x.o
+ .group         0x00000000        0x8 obj\debug\templates\system_stm32f10x.o
+ .group         0x00000000        0x8 obj\debug\templates\system_stm32f10x.o
+ .bss           0x00000000        0x0 obj\debug\templates\system_stm32f10x.o
+ .debug_macro   0x00000000      0x814 obj\debug\templates\system_stm32f10x.o
+ .debug_macro   0x00000000       0x56 obj\debug\templates\system_stm32f10x.o
+ .debug_macro   0x00000000       0x3a obj\debug\templates\system_stm32f10x.o
+ .debug_macro   0x00000000       0x16 obj\debug\templates\system_stm32f10x.o
+ .debug_macro   0x00000000       0x44 obj\debug\templates\system_stm32f10x.o
+ .debug_macro   0x00000000      0x209 obj\debug\templates\system_stm32f10x.o
+ .debug_macro   0x00000000       0x18 obj\debug\templates\system_stm32f10x.o
+ .debug_macro   0x00000000      0xa8b obj\debug\templates\system_stm32f10x.o
+ .debug_macro   0x00000000     0x7ea5 obj\debug\templates\system_stm32f10x.o
+ .debug_macro   0x00000000      0x2df obj\debug\templates\system_stm32f10x.o
+ .debug_macro   0x00000000      0x144 obj\debug\templates\system_stm32f10x.o
+ .debug_macro   0x00000000      0x2ac obj\debug\templates\system_stm32f10x.o
+ .debug_macro   0x00000000       0x35 obj\debug\templates\system_stm32f10x.o
+ .text          0x00000000        0x0 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-exit.o)
+ .data          0x00000000        0x0 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x20 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x2d d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-exit.o)
+ .text          0x00000000        0x0 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-impure.o)
+ .data          0x00000000        0x0 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-impure.o)
+ .data.impure_data
+                0x00000000      0x428 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-impure.o)
+ .rodata.str1.4
+                0x00000000        0x4 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000000       0x2d d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-impure.o)
+ .text          0x00000000        0x0 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-init.o)
+ .data          0x00000000        0x0 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-init.o)
+ .bss           0x00000000        0x0 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-init.o)
+ .text.__libc_init_array
+                0x00000000       0x50 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000000       0x2d d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-init.o)
+ .debug_frame   0x00000000       0x2c d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-init.o)
+ .text          0x00000000        0x0 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-memset.o)
+ .data          0x00000000        0x0 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-memset.o)
+ .text.memset   0x00000000       0x94 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000000       0x2d d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-memset.o)
+ .debug_frame   0x00000000       0x2c d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-memset.o)
+ .text          0x00000000        0x0 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-__call_atexit.o)
+ .data          0x00000000        0x0 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-__call_atexit.o)
+ .bss           0x00000000        0x0 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-__call_atexit.o)
+ .text.startup.register_fini
+                0x00000000       0x14 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-__call_atexit.o)
+ .init_array.00000
+                0x00000000        0x4 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x00000000       0xd8 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x00000000       0x2d d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00000000       0x48 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-__call_atexit.o)
+ .text          0x00000000        0x0 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-atexit.o)
+ .data          0x00000000        0x0 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-atexit.o)
+ .bss           0x00000000        0x0 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-atexit.o)
+ .text.atexit   0x00000000        0xc d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x00000000       0x2d d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-atexit.o)
+ .debug_frame   0x00000000       0x20 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-atexit.o)
+ .text          0x00000000        0x0 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-fini.o)
+ .data          0x00000000        0x0 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-fini.o)
+ .bss           0x00000000        0x0 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-fini.o)
+ .text.__libc_fini_array
+                0x00000000       0x2c d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-fini.o)
+ .ARM.attributes
+                0x00000000       0x2d d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-fini.o)
+ .debug_frame   0x00000000       0x2c d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-fini.o)
+ .text          0x00000000        0x0 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-__atexit.o)
+ .data          0x00000000        0x0 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-__atexit.o)
+ .bss           0x00000000        0x0 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-__atexit.o)
+ .text.__register_exitproc
+                0x00000000       0xb0 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x00000000       0x2d d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-__atexit.o)
+ .debug_frame   0x00000000       0x34 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-__atexit.o)
+ .text          0x00000000        0x0 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libnosys.a(_exit.o)
+ .data          0x00000000        0x0 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libnosys.a(_exit.o)
+ .bss           0x00000000        0x0 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libnosys.a(_exit.o)
+ .text._exit    0x00000000        0x4 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libnosys.a(_exit.o)
+ .ARM.attributes
+                0x00000000       0x2d d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libnosys.a(_exit.o)
+ .debug_frame   0x00000000       0x20 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libnosys.a(_exit.o)
+ .text          0x00000000        0x0 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtend.o
+ .data          0x00000000        0x0 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtend.o
+ .bss           0x00000000        0x0 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtend.o
+ .eh_frame      0x00000000        0x4 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtend.o
+ .jcr           0x00000000        0x4 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtend.o
+ .ARM.attributes
+                0x00000000       0x2d d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtend.o
+ .text          0x00000000        0x0 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtn.o
+ .data          0x00000000        0x0 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtn.o
+ .bss           0x00000000        0x0 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtn.o
+ .init          0x00000000        0x8 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtn.o
+ .fini          0x00000000        0x8 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtn.o
+ .ARM.attributes
+                0x00000000       0x1d d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+rom              0x08000000         0x00020000         xr
+ram              0x20000000         0x00002000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crti.o
+LOAD d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtbegin.o
+LOAD d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+                0x00000100                __HEAP_SIZE = 0x100
+                0x00000100                __STACK_SIZE = 0x100
+                0x20002000                _eram = 0x20002000
+
+.text           0x08000000     0x5b28
+ *(.isr_vector .isr_vector.*)
+ .isr_vector    0x08000000      0x124 obj\debug\templates\startup_stm32f10x_md_vl.o
+                0x08000000                g_pfnVectors
+ *(.text .text.* .gnu.linkonce.t.*)
+ .text          0x08000124      0x2e0 obj\debug\src\gps.o
+                0x08000124                takeHoursMinsSeconds
+                0x080002ac                CommandGPSRunner
+ .text          0x08000404      0x8b0 obj\debug\src\rtc.o
+                0x08000440                RTC_Configuration
+                0x0800052c                SetTime
+                0x080005b0                RTC_Application
+                0x080005f0                ReturnFromStopMode
+                0x080005fc                WeekDay
+                0x080006ec                CalculateTime
+                0x080008f4                Tamper_NVIC_Configuration
+                0x0800092c                RTC_NVIC_Configuration
+                0x08000a58                TAMPER_IRQHandler
+                0x08000a98                RTC_Config
+                0x08000b9c                RTC_IRQHandler
+ .text          0x08000cb4     0x1648 obj\debug\src\digits.o
+                0x08000cb4                SetDigit1
+                0x080010e8                SetDigit2
+                0x080017d8                SetDigit3
+                0x08001ec8                SetDigit4
+ .text          0x080022fc      0xb14 obj\debug\src\ioconfig.o
+                0x08002334                InterruptConf
+                0x0800239c                EXTI0_IRQHandler
+                0x080023f4                PortCConf
+                0x08002498                PortAConf
+                0x0800293c                PortBConf
+ .text          0x08002e10       0xec obj\debug\src\main.o
+                0x08002e10                main
+ .text          0x08002efc      0x2d8 obj\debug\src\timers.o
+                0x08002f34                IWDG_init
+                0x08002f78                delay_ms
+                0x08002fa4                TIM4_init
+                0x0800303c                TIM2_init
+                0x08003170                TIM2_IRQHandler
+ .text          0x080031d4      0x258 obj\debug\src\uart.o
+                0x080031d4                write_UART1
+                0x08003230                Init_UART1
+                0x0800331c                USART1_IRQHandler
+ .text          0x0800342c      0x23c obj\debug\src\user_interface.o
+                0x0800342c                CheckZone
+ .text          0x08003668      0x1dc obj\debug\stm_lib\src\misc.o
+                0x08003668                NVIC_PriorityGroupConfig
+                0x08003690                NVIC_Init
+                0x08003778                NVIC_SetVectorTable
+                0x080037a4                NVIC_SystemLPConfig
+                0x080037f8                SysTick_CLKSourceConfig
+ .text          0x08003844      0x1f8 obj\debug\stm_lib\src\stm32f10x_bkp.o
+                0x08003844                BKP_DeInit
+                0x08003868                BKP_TamperPinLevelConfig
+                0x08003888                BKP_TamperPinCmd
+                0x080038a8                BKP_ITConfig
+                0x080038c8                BKP_RTCOutputConfig
+                0x0800390c                BKP_SetRTCCalibrationValue
+                0x08003950                BKP_WriteBackupRegister
+                0x08003988                BKP_ReadBackupRegister
+                0x080039bc                BKP_GetFlagStatus
+                0x080039d4                BKP_ClearFlag
+                0x080039fc                BKP_GetITStatus
+                0x08003a14                BKP_ClearITPendingBit
+ .text          0x08003a3c      0x2c0 obj\debug\stm_lib\src\stm32f10x_exti.o
+                0x08003a3c                EXTI_DeInit
+                0x08003a90                EXTI_Init
+                0x08003bc8                EXTI_StructInit
+                0x08003bfc                EXTI_GenerateSWInterrupt
+                0x08003c28                EXTI_GetFlagStatus
+                0x08003c64                EXTI_ClearFlag
+                0x08003c84                EXTI_GetITStatus
+                0x08003cdc                EXTI_ClearITPendingBit
+ .text          0x08003cfc       0xd0 obj\debug\stm_lib\src\stm32f10x_iwdg.o
+                0x08003cfc                IWDG_WriteAccessCmd
+                0x08003d1c                IWDG_SetPrescaler
+                0x08003d3c                IWDG_SetReload
+                0x08003d5c                IWDG_ReloadCounter
+                0x08003d74                IWDG_Enable
+                0x08003d8c                IWDG_GetFlagStatus
+ .text          0x08003dcc      0x20c obj\debug\stm_lib\src\stm32f10x_pwr.o
+                0x08003dcc                PWR_DeInit
+                0x08003df8                PWR_BackupAccessCmd
+                0x08003e18                PWR_PVDCmd
+                0x08003e38                PWR_PVDLevelConfig
+                0x08003e78                PWR_WakeUpPinCmd
+                0x08003e98                PWR_EnterSTOPMode
+                0x08003f18                PWR_EnterSTANDBYMode
+                0x08003f6c                PWR_GetFlagStatus
+                0x08003fa8                PWR_ClearFlag
+ .text          0x08003fd8      0xa44 obj\debug\stm_lib\src\stm32f10x_rcc.o
+                0x08003fd8                RCC_DeInit
+                0x08004080                RCC_HSEConfig
+                0x08004108                RCC_WaitForHSEStartUp
+                0x0800416c                RCC_AdjustHSICalibrationValue
+                0x080041b4                RCC_HSICmd
+                0x080041d4                RCC_PLLConfig
+                0x0800421c                RCC_PLLCmd
+                0x0800423c                RCC_PREDIV1Config
+                0x08004288                RCC_SYSCLKConfig
+                0x080042c8                RCC_GetSYSCLKSource
+                0x080042e8                RCC_HCLKConfig
+                0x08004328                RCC_PCLK1Config
+                0x08004368                RCC_PCLK2Config
+                0x080043ac                RCC_ITConfig
+                0x0800440c                RCC_USBCLKConfig
+                0x0800442c                RCC_ADCCLKConfig
+                0x0800446c                RCC_LSEConfig
+                0x080044cc                RCC_LSICmd
+                0x080044ec                RCC_RTCCLKConfig
+                0x08004518                RCC_RTCCLKCmd
+                0x08004538                RCC_GetClocksFreq
+                0x08004704                RCC_AHBPeriphClockCmd
+                0x08004758                RCC_APB2PeriphClockCmd
+                0x080047ac                RCC_APB1PeriphClockCmd
+                0x08004800                RCC_APB2PeriphResetCmd
+                0x08004854                RCC_APB1PeriphResetCmd
+                0x080048a8                RCC_BackupResetCmd
+                0x080048c8                RCC_ClockSecuritySystemCmd
+                0x080048e8                RCC_MCOConfig
+                0x08004908                RCC_GetFlagStatus
+                0x08004998                RCC_ClearFlag
+                0x080049bc                RCC_GetITStatus
+                0x080049fc                RCC_ClearITPendingBit
+ .text          0x08004a1c      0x348 obj\debug\stm_lib\src\stm32f10x_rtc.o
+                0x08004a1c                RTC_ITConfig
+                0x08004a7c                RTC_EnterConfigMode
+                0x08004aa4                RTC_ExitConfigMode
+                0x08004acc                RTC_GetCounter
+                0x08004b04                RTC_SetCounter
+                0x08004b3c                RTC_SetPrescaler
+                0x08004b78                RTC_SetAlarm
+                0x08004bb0                RTC_GetDivider
+                0x08004bf4                RTC_WaitForLastTask
+                0x08004c14                RTC_WaitForSynchro
+                0x08004c50                RTC_GetFlagStatus
+                0x08004c94                RTC_ClearFlag
+                0x08004ccc                RTC_GetITStatus
+                0x08004d2c                RTC_ClearITPendingBit
+ .text          0x08004d64      0x9f8 obj\debug\stm_lib\src\stm32f10x_usart.o
+                0x08004d64                USART_DeInit
+                0x08004e78                USART_Init
+                0x08005028                USART_StructInit
+                0x0800506c                USART_ClockInit
+                0x080050c4                USART_ClockStructInit
+                0x080050f8                USART_Cmd
+                0x08005138                USART_ITConfig
+                0x080051dc                USART_DMACmd
+                0x08005224                USART_SetAddress
+                0x0800525c                USART_WakeUpConfig
+                0x08005294                USART_ReceiverWakeUpCmd
+                0x080052d4                USART_LINBreakDetectLengthConfig
+                0x0800530c                USART_LINCmd
+                0x0800534c                USART_SendData
+                0x08005374                USART_ReceiveData
+                0x08005398                USART_SendBreak
+                0x080053bc                USART_SetGuardTime
+                0x080053f8                USART_SetPrescaler
+                0x08005430                USART_SmartCardCmd
+                0x08005470                USART_SmartCardNACKCmd
+                0x080054b0                USART_HalfDuplexCmd
+                0x080054f0                USART_OverSampling8Cmd
+                0x08005538                USART_OneBitMethodCmd
+                0x08005578                USART_IrDAConfig
+                0x080055b0                USART_IrDACmd
+                0x080055f0                USART_GetFlagStatus
+                0x08005630                USART_ClearFlag
+                0x08005654                USART_GetITStatus
+                0x08005718                USART_ClearITPendingBit
+ .text          0x0800575c       0x80 obj\debug\templates\startup_stm32f10x_md_vl.o
+                0x0800575c                Default_Reset_Handler
+                0x0800575c                Reset_Handler
+                0x080057cc                PVD_IRQHandler
+                0x080057cc                EXTI3_IRQHandler
+                0x080057cc                I2C2_EV_IRQHandler
+                0x080057cc                TIM1_UP_TIM16_IRQHandler
+                0x080057cc                TIM1_CC_IRQHandler
+                0x080057cc                TIM6_DAC_IRQHandler
+                0x080057cc                DMA1_Channel4_IRQHandler
+                0x080057cc                ADC1_IRQHandler
+                0x080057cc                USART3_IRQHandler
+                0x080057cc                DMA1_Channel7_IRQHandler
+                0x080057cc                SPI1_IRQHandler
+                0x080057cc                TIM4_IRQHandler
+                0x080057cc                I2C1_EV_IRQHandler
+                0x080057cc                DMA1_Channel6_IRQHandler
+                0x080057cc                TIM3_IRQHandler
+                0x080057cc                RCC_IRQHandler
+                0x080057cc                DMA1_Channel1_IRQHandler
+                0x080057cc                CEC_IRQHandler
+                0x080057cc                EXTI15_10_IRQHandler
+                0x080057cc                EXTI2_IRQHandler
+                0x080057cc                TIM7_IRQHandler
+                0x080057cc                EXTI9_5_IRQHandler
+                0x080057cc                SPI2_IRQHandler
+                0x080057cc                DMA1_Channel5_IRQHandler
+                0x080057cc                EXTI4_IRQHandler
+                0x080057cc                TIM1_TRG_COM_TIM17_IRQHandler
+                0x080057cc                DMA1_Channel3_IRQHandler
+                0x080057cc                WWDG_IRQHandler
+                0x080057cc                EXTI1_IRQHandler
+                0x080057cc                RTCAlarm_IRQHandler
+                0x080057cc                USART2_IRQHandler
+                0x080057cc                I2C2_ER_IRQHandler
+                0x080057cc                DMA1_Channel2_IRQHandler
+                0x080057cc                FLASH_IRQHandler
+                0x080057cc                I2C1_ER_IRQHandler
+                0x080057cc                TIM1_BRK_TIM15_IRQHandler
+ .text          0x080057dc       0x5c obj\debug\templates\stm32f10x_it.o
+                0x080057dc                NMI_Handler
+                0x080057e8                HardFault_Handler
+                0x080057f0                MemManage_Handler
+                0x080057f8                BusFault_Handler
+                0x08005800                UsageFault_Handler
+                0x08005808                SVC_Handler
+                0x08005814                DebugMon_Handler
+                0x08005820                PendSV_Handler
+                0x0800582c                SysTick_Handler
+ .text          0x08005838      0x2f0 obj\debug\templates\system_stm32f10x.o
+                0x08005838                SystemInit
+                0x080058e0                SystemCoreClockUpdate
+ *(.glue_7t)
+ .glue_7t       0x00000000        0x0 linker stubs
+ *(.glue_7)
+ .glue_7        0x00000000        0x0 linker stubs
+ *(.rodata .rodata* .gnu.linkonce.r.*)
+
+.vfp11_veneer   0x08005b28        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x08005b28        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x08005b28        0x0
+ .iplt          0x00000000        0x0 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtbegin.o
+
+.rel.dyn        0x08005b28        0x0
+ .rel.iplt      0x00000000        0x0 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x08005b28                . = ALIGN (0x4)
+                0x08005b28                _etext = .
+                0x08005b28                _sidata = .
+
+.data           0x20000000       0x2c load address 0x08005b28
+                0x20000000                _sdata = .
+ *(.data .data.*)
+ .data          0x20000000        0x1 obj\debug\src\rtc.o
+ *fill*         0x20000001        0x3 
+ .data          0x20000004       0x14 obj\debug\stm_lib\src\stm32f10x_rcc.o
+ .data          0x20000018       0x14 obj\debug\templates\system_stm32f10x.o
+                0x20000018                SystemCoreClock
+                0x2000001c                AHBPrescTable
+                0x2000002c                . = ALIGN (0x4)
+                0x2000002c                _edata = .
+
+.igot.plt       0x2000002c        0x0 load address 0x08005b54
+ .igot.plt      0x00000000        0x0 d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtbegin.o
+
+.bss            0x2000002c      0x12c load address 0x08005b54
+                0x2000002c                __bss_start__ = .
+                0x2000002c                _sbss = .
+ *(.bss .bss.*)
+ .bss           0x2000002c        0x3 obj\debug\src\gps.o
+                0x2000002c                CommandGPS
+                0x2000002d                i
+                0x2000002e                statusSync
+ *fill*         0x2000002f        0x1 
+ .bss           0x20000030        0xc obj\debug\src\rtc.o
+                0x20000030                WatchCounter
+                0x20000034                TamperEvent
+                0x20000036                SummerTimeCorrect
+                0x20000038                BatteryRemoved
+ .bss           0x2000003c        0x1 obj\debug\src\timers.o
+                0x2000003c                TIM2_flag
+ *fill*         0x2000003d        0x3 
+ .bss           0x20000040        0xc obj\debug\src\uart.o
+ *(COMMON)
+ COMMON         0x2000004c      0x104 obj\debug\src\gps.o
+                0x2000004c                arrayGPS
+                0x2000014c                Time
+ COMMON         0x20000150        0x7 obj\debug\src\rtc.o
+                0x20000150                s_TimeStructVar
+                0x20000156                ClockSource
+                0x20000158                . = ALIGN (0x4)
+ *fill*         0x20000157        0x1 
+                0x20000158                _ebss = .
+                0x20000158                __bss_end__ = .
+
+.co_stack       0x20000158      0x400 load address 0x08005c80
+                0x20000158                . = ALIGN (0x8)
+ *(.co_stack .co_stack.*)
+ .co_stack      0x20000158      0x400 obj\debug\templates\startup_stm32f10x_md_vl.o
+                0x20000158                pulStack
+                0x20000558                . = ALIGN (0x4)
+                0x20000558                _end = .
+LOAD obj\debug\src\gps.o
+LOAD obj\debug\src\rtc.o
+LOAD obj\debug\src\delays.o
+LOAD obj\debug\src\digits.o
+LOAD obj\debug\src\ioconfig.o
+LOAD obj\debug\src\main.o
+LOAD obj\debug\src\timers.o
+LOAD obj\debug\src\uart.o
+LOAD obj\debug\src\user_interface.o
+LOAD obj\debug\stm_lib\src\misc.o
+LOAD obj\debug\stm_lib\src\stm32f10x_adc.o
+LOAD obj\debug\stm_lib\src\stm32f10x_bkp.o
+LOAD obj\debug\stm_lib\src\stm32f10x_can.o
+LOAD obj\debug\stm_lib\src\stm32f10x_cec.o
+LOAD obj\debug\stm_lib\src\stm32f10x_crc.o
+LOAD obj\debug\stm_lib\src\stm32f10x_dac.o
+LOAD obj\debug\stm_lib\src\stm32f10x_dbgmcu.o
+LOAD obj\debug\stm_lib\src\stm32f10x_dma.o
+LOAD obj\debug\stm_lib\src\stm32f10x_exti.o
+LOAD obj\debug\stm_lib\src\stm32f10x_flash.o
+LOAD obj\debug\stm_lib\src\stm32f10x_fsmc.o
+LOAD obj\debug\stm_lib\src\stm32f10x_gpio.o
+LOAD obj\debug\stm_lib\src\stm32f10x_i2c.o
+LOAD obj\debug\stm_lib\src\stm32f10x_iwdg.o
+LOAD obj\debug\stm_lib\src\stm32f10x_pwr.o
+LOAD obj\debug\stm_lib\src\stm32f10x_rcc.o
+LOAD obj\debug\stm_lib\src\stm32f10x_rtc.o
+LOAD obj\debug\stm_lib\src\stm32f10x_sdio.o
+LOAD obj\debug\stm_lib\src\stm32f10x_spi.o
+LOAD obj\debug\stm_lib\src\stm32f10x_tim.o
+LOAD obj\debug\stm_lib\src\stm32f10x_usart.o
+LOAD obj\debug\stm_lib\src\stm32f10x_wwdg.o
+LOAD obj\debug\templates\startup_stm32f10x_md_vl.o
+LOAD obj\debug\templates\stm32f10x_it.o
+LOAD obj\debug\templates\system_stm32f10x.o
+START GROUP
+LOAD d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m\libgcc.a
+LOAD d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a
+LOAD d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libg.a
+LOAD d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libm.a
+LOAD d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libnosys.a
+END GROUP
+LOAD d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtend.o
+LOAD d:/program files/emblocks/2.30/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtn.o
+OUTPUT(bin\Debug\GPS_watch.elf elf32-littlearm)
+
+.debug_info     0x00000000     0x60bb
+ .debug_info    0x00000000      0x209 obj\debug\src\gps.o
+ .debug_info    0x00000209      0xdc3 obj\debug\src\rtc.o
+ .debug_info    0x00000fcc      0x1f4 obj\debug\src\digits.o
+ .debug_info    0x000011c0      0x69e obj\debug\src\ioconfig.o
+ .debug_info    0x0000185e      0x216 obj\debug\src\main.o
+ .debug_info    0x00001a74      0x79b obj\debug\src\timers.o
+ .debug_info    0x0000220f      0x556 obj\debug\src\uart.o
+ .debug_info    0x00002765      0x1e2 obj\debug\src\user_interface.o
+ .debug_info    0x00002947      0x5b7 obj\debug\stm_lib\src\misc.o
+ .debug_info    0x00002efe      0x8b9 obj\debug\stm_lib\src\stm32f10x_bkp.o
+ .debug_info    0x000037b7      0x387 obj\debug\stm_lib\src\stm32f10x_exti.o
+ .debug_info    0x00003b3e      0x23a obj\debug\stm_lib\src\stm32f10x_iwdg.o
+ .debug_info    0x00003d78      0x4ea obj\debug\stm_lib\src\stm32f10x_pwr.o
+ .debug_info    0x00004262      0x9cb obj\debug\stm_lib\src\stm32f10x_rcc.o
+ .debug_info    0x00004c2d      0x4ac obj\debug\stm_lib\src\stm32f10x_rtc.o
+ .debug_info    0x000050d9      0xabd obj\debug\stm_lib\src\stm32f10x_usart.o
+ .debug_info    0x00005b96      0x103 obj\debug\templates\startup_stm32f10x_md_vl.o
+ .debug_info    0x00005c99      0x166 obj\debug\templates\stm32f10x_it.o
+ .debug_info    0x00005dff      0x2bc obj\debug\templates\system_stm32f10x.o
+
+.debug_abbrev   0x00000000     0x17d9
+ .debug_abbrev  0x00000000      0x110 obj\debug\src\gps.o
+ .debug_abbrev  0x00000110      0x254 obj\debug\src\rtc.o
+ .debug_abbrev  0x00000364       0xb3 obj\debug\src\digits.o
+ .debug_abbrev  0x00000417      0x15d obj\debug\src\ioconfig.o
+ .debug_abbrev  0x00000574       0xe0 obj\debug\src\main.o
+ .debug_abbrev  0x00000654      0x168 obj\debug\src\timers.o
+ .debug_abbrev  0x000007bc      0x18c obj\debug\src\uart.o
+ .debug_abbrev  0x00000948       0xef obj\debug\src\user_interface.o
+ .debug_abbrev  0x00000a37      0x12c obj\debug\stm_lib\src\misc.o
+ .debug_abbrev  0x00000b63      0x168 obj\debug\stm_lib\src\stm32f10x_bkp.o
+ .debug_abbrev  0x00000ccb      0x156 obj\debug\stm_lib\src\stm32f10x_exti.o
+ .debug_abbrev  0x00000e21      0x106 obj\debug\stm_lib\src\stm32f10x_iwdg.o
+ .debug_abbrev  0x00000f27      0x184 obj\debug\stm_lib\src\stm32f10x_pwr.o
+ .debug_abbrev  0x000010ab      0x1bf obj\debug\stm_lib\src\stm32f10x_rcc.o
+ .debug_abbrev  0x0000126a      0x192 obj\debug\stm_lib\src\stm32f10x_rtc.o
+ .debug_abbrev  0x000013fc      0x167 obj\debug\stm_lib\src\stm32f10x_usart.o
+ .debug_abbrev  0x00001563       0xac obj\debug\templates\startup_stm32f10x_md_vl.o
+ .debug_abbrev  0x0000160f       0x6a obj\debug\templates\stm32f10x_it.o
+ .debug_abbrev  0x00001679      0x160 obj\debug\templates\system_stm32f10x.o
+
+.debug_loc      0x00000000     0x224c
+ .debug_loc     0x00000000       0x70 obj\debug\src\gps.o
+ .debug_loc     0x00000070      0x270 obj\debug\src\rtc.o
+ .debug_loc     0x000002e0       0xe0 obj\debug\src\digits.o
+ .debug_loc     0x000003c0      0x114 obj\debug\src\ioconfig.o
+ .debug_loc     0x000004d4       0x2c obj\debug\src\main.o
+ .debug_loc     0x00000500      0x12c obj\debug\src\timers.o
+ .debug_loc     0x0000062c       0x9c obj\debug\src\uart.o
+ .debug_loc     0x000006c8       0x38 obj\debug\src\user_interface.o
+ .debug_loc     0x00000700      0x118 obj\debug\stm_lib\src\misc.o
+ .debug_loc     0x00000818      0x264 obj\debug\stm_lib\src\stm32f10x_bkp.o
+ .debug_loc     0x00000a7c      0x1b4 obj\debug\stm_lib\src\stm32f10x_exti.o
+ .debug_loc     0x00000c30      0x138 obj\debug\stm_lib\src\stm32f10x_iwdg.o
+ .debug_loc     0x00000d68      0x1e0 obj\debug\stm_lib\src\stm32f10x_pwr.o
+ .debug_loc     0x00000f48      0x714 obj\debug\stm_lib\src\stm32f10x_rcc.o
+ .debug_loc     0x0000165c      0x2e0 obj\debug\stm_lib\src\stm32f10x_rtc.o
+ .debug_loc     0x0000193c      0x658 obj\debug\stm_lib\src\stm32f10x_usart.o
+ .debug_loc     0x00001f94       0x64 obj\debug\templates\startup_stm32f10x_md_vl.o
+ .debug_loc     0x00001ff8      0x18c obj\debug\templates\stm32f10x_it.o
+ .debug_loc     0x00002184       0xc8 obj\debug\templates\system_stm32f10x.o
+
+.debug_aranges  0x00000000      0x260
+ .debug_aranges
+                0x00000000       0x20 obj\debug\src\gps.o
+ .debug_aranges
+                0x00000020       0x20 obj\debug\src\rtc.o
+ .debug_aranges
+                0x00000040       0x20 obj\debug\src\digits.o
+ .debug_aranges
+                0x00000060       0x20 obj\debug\src\ioconfig.o
+ .debug_aranges
+                0x00000080       0x20 obj\debug\src\main.o
+ .debug_aranges
+                0x000000a0       0x20 obj\debug\src\timers.o
+ .debug_aranges
+                0x000000c0       0x20 obj\debug\src\uart.o
+ .debug_aranges
+                0x000000e0       0x20 obj\debug\src\user_interface.o
+ .debug_aranges
+                0x00000100       0x20 obj\debug\stm_lib\src\misc.o
+ .debug_aranges
+                0x00000120       0x20 obj\debug\stm_lib\src\stm32f10x_bkp.o
+ .debug_aranges
+                0x00000140       0x20 obj\debug\stm_lib\src\stm32f10x_exti.o
+ .debug_aranges
+                0x00000160       0x20 obj\debug\stm_lib\src\stm32f10x_iwdg.o
+ .debug_aranges
+                0x00000180       0x20 obj\debug\stm_lib\src\stm32f10x_pwr.o
+ .debug_aranges
+                0x000001a0       0x20 obj\debug\stm_lib\src\stm32f10x_rcc.o
+ .debug_aranges
+                0x000001c0       0x20 obj\debug\stm_lib\src\stm32f10x_rtc.o
+ .debug_aranges
+                0x000001e0       0x20 obj\debug\stm_lib\src\stm32f10x_usart.o
+ .debug_aranges
+                0x00000200       0x20 obj\debug\templates\startup_stm32f10x_md_vl.o
+ .debug_aranges
+                0x00000220       0x20 obj\debug\templates\stm32f10x_it.o
+ .debug_aranges
+                0x00000240       0x20 obj\debug\templates\system_stm32f10x.o
+
+.debug_macro    0x00000000    0x1465b
+ .debug_macro   0x00000000       0xcb obj\debug\src\gps.o
+ .debug_macro   0x000000cb      0x814 obj\debug\src\gps.o
+ .debug_macro   0x000008df       0x56 obj\debug\src\gps.o
+ .debug_macro   0x00000935       0x3a obj\debug\src\gps.o
+ .debug_macro   0x0000096f       0x16 obj\debug\src\gps.o
+ .debug_macro   0x00000985       0x44 obj\debug\src\gps.o
+ .debug_macro   0x000009c9      0x209 obj\debug\src\gps.o
+ .debug_macro   0x00000bd2       0x18 obj\debug\src\gps.o
+ .debug_macro   0x00000bea      0xa8b obj\debug\src\gps.o
+ .debug_macro   0x00001675     0x7ea5 obj\debug\src\gps.o
+ .debug_macro   0x0000951a      0x2df obj\debug\src\gps.o
+ .debug_macro   0x000097f9      0x144 obj\debug\src\gps.o
+ .debug_macro   0x0000993d      0x2ac obj\debug\src\gps.o
+ .debug_macro   0x00009be9       0x35 obj\debug\src\gps.o
+ .debug_macro   0x00009c1e       0x64 obj\debug\src\gps.o
+ .debug_macro   0x00009c82      0x107 obj\debug\src\rtc.o
+ .debug_macro   0x00009d89       0x5e obj\debug\src\rtc.o
+ .debug_macro   0x00009de7       0x8b obj\debug\src\rtc.o
+ .debug_macro   0x00009e72       0x58 obj\debug\src\rtc.o
+ .debug_macro   0x00009eca      0x461 obj\debug\src\rtc.o
+ .debug_macro   0x0000a32b       0x9a obj\debug\src\rtc.o
+ .debug_macro   0x0000a3c5       0x82 obj\debug\src\rtc.o
+ .debug_macro   0x0000a447      0x220 obj\debug\src\rtc.o
+ .debug_macro   0x0000a667       0xcb obj\debug\src\digits.o
+ .debug_macro   0x0000a732      0x2a6 obj\debug\src\digits.o
+ .debug_macro   0x0000a9d8       0xfa obj\debug\src\ioconfig.o
+ .debug_macro   0x0000aad2      0x11c obj\debug\src\main.o
+ .debug_macro   0x0000abee      0x2b1 obj\debug\src\main.o
+ .debug_macro   0x0000ae9f       0xf9 obj\debug\src\timers.o
+ .debug_macro   0x0000af98       0x64 obj\debug\src\timers.o
+ .debug_macro   0x0000affc       0xe7 obj\debug\src\uart.o
+ .debug_macro   0x0000b0e3       0x56 obj\debug\src\uart.o
+ .debug_macro   0x0000b139     0x7ea5 obj\debug\src\uart.o
+ .debug_macro   0x00012fde       0x35 obj\debug\src\uart.o
+ .debug_macro   0x00013013      0x220 obj\debug\src\uart.o
+ .debug_macro   0x00013233       0xe5 obj\debug\src\user_interface.o
+ .debug_macro   0x00013318       0xcd obj\debug\stm_lib\src\misc.o
+ .debug_macro   0x000133e5       0x85 obj\debug\stm_lib\src\misc.o
+ .debug_macro   0x0001346a      0x125 obj\debug\stm_lib\src\stm32f10x_bkp.o
+ .debug_macro   0x0001358f       0xcd obj\debug\stm_lib\src\stm32f10x_exti.o
+ .debug_macro   0x0001365c       0x94 obj\debug\stm_lib\src\stm32f10x_exti.o
+ .debug_macro   0x000136f0       0xd3 obj\debug\stm_lib\src\stm32f10x_iwdg.o
+ .debug_macro   0x000137c3       0x5e obj\debug\stm_lib\src\stm32f10x_iwdg.o
+ .debug_macro   0x00013821      0x112 obj\debug\stm_lib\src\stm32f10x_pwr.o
+ .debug_macro   0x00013933       0x7c obj\debug\stm_lib\src\stm32f10x_pwr.o
+ .debug_macro   0x000139af      0x1f1 obj\debug\stm_lib\src\stm32f10x_rcc.o
+ .debug_macro   0x00013ba0      0x45b obj\debug\stm_lib\src\stm32f10x_rcc.o
+ .debug_macro   0x00013ffb       0xd3 obj\debug\stm_lib\src\stm32f10x_rtc.o
+ .debug_macro   0x000140ce       0x52 obj\debug\stm_lib\src\stm32f10x_rtc.o
+ .debug_macro   0x00014120      0x184 obj\debug\stm_lib\src\stm32f10x_usart.o
+ .debug_macro   0x000142a4      0x21a obj\debug\stm_lib\src\stm32f10x_usart.o
+ .debug_macro   0x000144be       0x1d obj\debug\templates\startup_stm32f10x_md_vl.o
+ .debug_macro   0x000144db       0xc2 obj\debug\templates\stm32f10x_it.o
+ .debug_macro   0x0001459d       0xbe obj\debug\templates\system_stm32f10x.o
+
+.debug_line     0x00000000     0x469d
+ .debug_line    0x00000000      0x3b5 obj\debug\src\gps.o
+ .debug_line    0x000003b5      0x480 obj\debug\src\rtc.o
+ .debug_line    0x00000835      0x3fd obj\debug\src\digits.o
+ .debug_line    0x00000c32      0x423 obj\debug\src\ioconfig.o
+ .debug_line    0x00001055      0x3fd obj\debug\src\main.o
+ .debug_line    0x00001452      0x3e7 obj\debug\src\timers.o
+ .debug_line    0x00001839      0x3cc obj\debug\src\uart.o
+ .debug_line    0x00001c05      0x39f obj\debug\src\user_interface.o
+ .debug_line    0x00001fa4      0x37d obj\debug\stm_lib\src\misc.o
+ .debug_line    0x00002321      0x3a7 obj\debug\stm_lib\src\stm32f10x_bkp.o
+ .debug_line    0x000026c8      0x3b6 obj\debug\stm_lib\src\stm32f10x_exti.o
+ .debug_line    0x00002a7e      0x386 obj\debug\stm_lib\src\stm32f10x_iwdg.o
+ .debug_line    0x00002e04      0x3cb obj\debug\stm_lib\src\stm32f10x_pwr.o
+ .debug_line    0x000031cf      0x49b obj\debug\stm_lib\src\stm32f10x_rcc.o
+ .debug_line    0x0000366a      0x3ce obj\debug\stm_lib\src\stm32f10x_rtc.o
+ .debug_line    0x00003a38      0x49c obj\debug\stm_lib\src\stm32f10x_usart.o
+ .debug_line    0x00003ed4       0x6b obj\debug\templates\startup_stm32f10x_md_vl.o
+ .debug_line    0x00003f3f      0x3a0 obj\debug\templates\stm32f10x_it.o
+ .debug_line    0x000042df      0x3be obj\debug\templates\system_stm32f10x.o
+
+.debug_str      0x00000000    0x4156d
+ .debug_str     0x00000000    0x375fb obj\debug\src\gps.o
+                              0x37762 (size before relaxing)
+ .debug_str     0x000375fb     0x47c7 obj\debug\src\rtc.o
+                              0x3bee8 (size before relaxing)
+ .debug_str     0x0003bdc2       0x52 obj\debug\src\digits.o
+                              0x37ee4 (size before relaxing)
+ .debug_str     0x0003be14       0xee obj\debug\src\ioconfig.o
+                              0x3aca0 (size before relaxing)
+ .debug_str     0x0003bf02     0x1c5b obj\debug\src\main.o
+                              0x39f5c (size before relaxing)
+ .debug_str     0x0003db5d      0x44f obj\debug\src\timers.o
+                              0x38ffb (size before relaxing)
+ .debug_str     0x0003dfac     0x14cf obj\debug\src\uart.o
+                              0x3b6dc (size before relaxing)
+ .debug_str     0x0003f47b       0x53 obj\debug\src\user_interface.o
+                              0x37f3f (size before relaxing)
+ .debug_str     0x0003f4ce      0x17a obj\debug\stm_lib\src\misc.o
+                              0x37ccc (size before relaxing)
+ .debug_str     0x0003f648      0x397 obj\debug\stm_lib\src\stm32f10x_bkp.o
+                              0x3a010 (size before relaxing)
+ .debug_str     0x0003f9df       0xef obj\debug\stm_lib\src\stm32f10x_exti.o
+                              0x37dac (size before relaxing)
+ .debug_str     0x0003face       0xfd obj\debug\stm_lib\src\stm32f10x_iwdg.o
+                              0x37a8f (size before relaxing)
+ .debug_str     0x0003fbcb      0x2ae obj\debug\stm_lib\src\stm32f10x_pwr.o
+                              0x3a1c0 (size before relaxing)
+ .debug_str     0x0003fe79      0xb7f obj\debug\stm_lib\src\stm32f10x_rcc.o
+                              0x3a5db (size before relaxing)
+ .debug_str     0x000409f8      0x1af obj\debug\stm_lib\src\stm32f10x_rtc.o
+                              0x37b0c (size before relaxing)
+ .debug_str     0x00040ba7      0x7d1 obj\debug\stm_lib\src\stm32f10x_usart.o
+                              0x3b6bc (size before relaxing)
+ .debug_str     0x00041378       0xb7 obj\debug\templates\startup_stm32f10x_md_vl.o
+                               0x22eb (size before relaxing)
+ .debug_str     0x0004142f       0xbb obj\debug\templates\stm32f10x_it.o
+                              0x3764b (size before relaxing)
+ .debug_str     0x000414ea       0x83 obj\debug\templates\system_stm32f10x.o
+                              0x376e9 (size before relaxing)
+
+.comment        0x00000000       0x38
+ .comment       0x00000000       0x38 obj\debug\src\gps.o
+                                 0x39 (size before relaxing)
+ .comment       0x00000000       0x39 obj\debug\src\rtc.o
+ .comment       0x00000000       0x39 obj\debug\src\digits.o
+ .comment       0x00000000       0x39 obj\debug\src\ioconfig.o
+ .comment       0x00000000       0x39 obj\debug\src\main.o
+ .comment       0x00000000       0x39 obj\debug\src\timers.o
+ .comment       0x00000000       0x39 obj\debug\src\uart.o
+ .comment       0x00000000       0x39 obj\debug\src\user_interface.o
+ .comment       0x00000000       0x39 obj\debug\stm_lib\src\misc.o
+ .comment       0x00000000       0x39 obj\debug\stm_lib\src\stm32f10x_bkp.o
+ .comment       0x00000000       0x39 obj\debug\stm_lib\src\stm32f10x_exti.o
+ .comment       0x00000000       0x39 obj\debug\stm_lib\src\stm32f10x_iwdg.o
+ .comment       0x00000000       0x39 obj\debug\stm_lib\src\stm32f10x_pwr.o
+ .comment       0x00000000       0x39 obj\debug\stm_lib\src\stm32f10x_rcc.o
+ .comment       0x00000000       0x39 obj\debug\stm_lib\src\stm32f10x_rtc.o
+ .comment       0x00000000       0x39 obj\debug\stm_lib\src\stm32f10x_usart.o
+ .comment       0x00000000       0x39 obj\debug\templates\startup_stm32f10x_md_vl.o
+ .comment       0x00000000       0x39 obj\debug\templates\stm32f10x_it.o
+ .comment       0x00000000       0x39 obj\debug\templates\system_stm32f10x.o
+
+.ARM.attributes
+                0x00000000       0x29
+ .ARM.attributes
+                0x00000000       0x33 obj\debug\src\gps.o
+ .ARM.attributes
+                0x00000033       0x33 obj\debug\src\rtc.o
+ .ARM.attributes
+                0x00000066       0x33 obj\debug\src\digits.o
+ .ARM.attributes
+                0x00000099       0x33 obj\debug\src\ioconfig.o
+ .ARM.attributes
+                0x000000cc       0x33 obj\debug\src\main.o
+ .ARM.attributes
+                0x000000ff       0x33 obj\debug\src\timers.o
+ .ARM.attributes
+                0x00000132       0x33 obj\debug\src\uart.o
+ .ARM.attributes
+                0x00000165       0x33 obj\debug\src\user_interface.o
+ .ARM.attributes
+                0x00000198       0x33 obj\debug\stm_lib\src\misc.o
+ .ARM.attributes
+                0x000001cb       0x33 obj\debug\stm_lib\src\stm32f10x_bkp.o
+ .ARM.attributes
+                0x000001fe       0x33 obj\debug\stm_lib\src\stm32f10x_exti.o
+ .ARM.attributes
+                0x00000231       0x33 obj\debug\stm_lib\src\stm32f10x_iwdg.o
+ .ARM.attributes
+                0x00000264       0x33 obj\debug\stm_lib\src\stm32f10x_pwr.o
+ .ARM.attributes
+                0x00000297       0x33 obj\debug\stm_lib\src\stm32f10x_rcc.o
+ .ARM.attributes
+                0x000002ca       0x33 obj\debug\stm_lib\src\stm32f10x_rtc.o
+ .ARM.attributes
+                0x000002fd       0x33 obj\debug\stm_lib\src\stm32f10x_usart.o
+ .ARM.attributes
+                0x00000330       0x33 obj\debug\templates\startup_stm32f10x_md_vl.o
+ .ARM.attributes
+                0x00000363       0x33 obj\debug\templates\stm32f10x_it.o
+ .ARM.attributes
+                0x00000396       0x33 obj\debug\templates\system_stm32f10x.o
+
+.debug_frame    0x00000000     0x1328
+ .debug_frame   0x00000000       0x4c obj\debug\src\gps.o
+ .debug_frame   0x0000004c      0x170 obj\debug\src\rtc.o
+ .debug_frame   0x000001bc       0x80 obj\debug\src\digits.o
+ .debug_frame   0x0000023c       0xb0 obj\debug\src\ioconfig.o
+ .debug_frame   0x000002ec       0x2c obj\debug\src\main.o
+ .debug_frame   0x00000318       0xbc obj\debug\src\timers.o
+ .debug_frame   0x000003d4       0x68 obj\debug\src\uart.o
+ .debug_frame   0x0000043c       0x30 obj\debug\src\user_interface.o
+ .debug_frame   0x0000046c       0x9c obj\debug\stm_lib\src\misc.o
+ .debug_frame   0x00000508      0x150 obj\debug\stm_lib\src\stm32f10x_bkp.o
+ .debug_frame   0x00000658       0xec obj\debug\stm_lib\src\stm32f10x_exti.o
+ .debug_frame   0x00000744       0xb0 obj\debug\stm_lib\src\stm32f10x_iwdg.o
+ .debug_frame   0x000007f4      0x108 obj\debug\stm_lib\src\stm32f10x_pwr.o
+ .debug_frame   0x000008fc      0x3a4 obj\debug\stm_lib\src\stm32f10x_rcc.o
+ .debug_frame   0x00000ca0      0x194 obj\debug\stm_lib\src\stm32f10x_rtc.o
+ .debug_frame   0x00000e34      0x344 obj\debug\stm_lib\src\stm32f10x_usart.o
+ .debug_frame   0x00001178       0x48 obj\debug\templates\startup_stm32f10x_md_vl.o
+ .debug_frame   0x000011c0       0xe8 obj\debug\templates\stm32f10x_it.o
+ .debug_frame   0x000012a8       0x80 obj\debug\templates\system_stm32f10x.o

@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<EmBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="Inc\GPS.h" open="1" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="165" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Inc\RTC.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1078" topLine="42" />
+		</Cursor>
+	</File>
+	<File name="Inc\digits.h" open="1" top="0" tabpos="16" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3570" topLine="56" />
+		</Cursor>
+	</File>
+	<File name="Inc\flash.h" open="1" top="0" tabpos="21" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="175" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Inc\ioconfig.h" open="1" top="0" tabpos="40" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="197" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Inc\stm32f10x.h" open="1" top="0" tabpos="21" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="37452" topLine="484" />
+		</Cursor>
+	</File>
+	<File name="Inc\stm32f10x_conf.h" open="1" top="0" tabpos="30" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2832" topLine="27" />
+		</Cursor>
+	</File>
+	<File name="Inc\stm32f10x_gpio.h" open="1" top="0" tabpos="36" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="19057" topLine="334" />
+		</Cursor>
+	</File>
+	<File name="Inc\stm32f10x_rcc.h" open="1" top="0" tabpos="17" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="25570" topLine="578" />
+		</Cursor>
+	</File>
+	<File name="Inc\timers.h" open="1" top="0" tabpos="31" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="80" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Inc\uart.h" open="1" top="0" tabpos="27" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="105" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Inc\user_interface.h" open="1" top="0" tabpos="26" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="93" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Src\GPS.c" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1391" topLine="29" />
+		</Cursor>
+	</File>
+	<File name="Src\RTC.c" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3667" topLine="86" />
+		</Cursor>
+	</File>
+	<File name="Src\delays.c" open="1" top="0" tabpos="35" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="248" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Src\digits.c" open="1" top="0" tabpos="15" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3573" topLine="178" />
+		</Cursor>
+	</File>
+	<File name="Src\flash.c" open="1" top="0" tabpos="22" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2517" topLine="47" />
+		</Cursor>
+	</File>
+	<File name="Src\ioconfig.c" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="427" topLine="1" />
+		</Cursor>
+	</File>
+	<File name="Src\main.c" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1889" topLine="15" />
+		</Cursor>
+	</File>
+	<File name="Src\timers.c" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1006" topLine="9" />
+		</Cursor>
+	</File>
+	<File name="Src\uart.c" open="1" top="0" tabpos="19" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1916" topLine="29" />
+		</Cursor>
+	</File>
+	<File name="Src\user_interface.c" open="1" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="181" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="stm_lib\inc\misc.h" open="1" top="0" tabpos="32" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1598" topLine="32" />
+		</Cursor>
+	</File>
+	<File name="stm_lib\inc\stm32f10x_bkp.h" open="1" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7098" topLine="144" />
+		</Cursor>
+	</File>
+	<File name="stm_lib\inc\stm32f10x_exti.h" open="1" top="0" tabpos="39" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1863" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="stm_lib\inc\stm32f10x_flash.h" open="1" top="0" tabpos="23" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="23494" topLine="360" />
+		</Cursor>
+	</File>
+	<File name="stm_lib\inc\stm32f10x_i2c.h" open="1" top="0" tabpos="34" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3693" topLine="80" />
+		</Cursor>
+	</File>
+	<File name="stm_lib\inc\stm32f10x_pwr.h" open="1" top="0" tabpos="41" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3870" topLine="105" />
+		</Cursor>
+	</File>
+	<File name="stm_lib\src\misc.c" open="1" top="0" tabpos="37" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4694" topLine="116" />
+		</Cursor>
+	</File>
+	<File name="stm_lib\src\stm32f10x_bkp.c" open="1" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7236" topLine="227" />
+		</Cursor>
+	</File>
+	<File name="stm_lib\src\stm32f10x_exti.c" open="1" top="0" tabpos="38" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="662" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="stm_lib\src\stm32f10x_flash.c" open="1" top="0" tabpos="24" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="36571" topLine="685" />
+		</Cursor>
+	</File>
+	<File name="stm_lib\src\stm32f10x_iwdg.c" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="542" topLine="138" />
+		</Cursor>
+	</File>
+	<File name="stm_lib\src\stm32f10x_rcc.c" open="1" top="0" tabpos="18" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="30112" topLine="896" />
+		</Cursor>
+	</File>
+	<File name="stm_lib\src\stm32f10x_rtc.c" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2726" topLine="91" />
+		</Cursor>
+	</File>
+	<File name="stm_lib\src\stm32f10x_tim.c" open="1" top="0" tabpos="33" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="43393" topLine="1128" />
+		</Cursor>
+	</File>
+	<File name="stm_lib\src\stm32f10x_usart.c" open="1" top="0" tabpos="21" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="35549" topLine="974" />
+		</Cursor>
+	</File>
+	<File name="templates\startup_stm32f10x_md_vl.c" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="10268" topLine="185" />
+		</Cursor>
+	</File>
+	<File name="templates\stm32f10x.h" open="1" top="0" tabpos="20" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="37950" topLine="501" />
+		</Cursor>
+	</File>
+	<File name="templates\stm32f10x_it.c" open="1" top="0" tabpos="25" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2332" topLine="29" />
+		</Cursor>
+	</File>
+	<File name="templates\stm32f10x_it.h" open="1" top="0" tabpos="29" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="889" topLine="3" />
+		</Cursor>
+	</File>
+	<File name="templates\stm32f10x_type.h" open="1" top="0" tabpos="28" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="777" topLine="3" />
+		</Cursor>
+	</File>
+	<File name="templates\system_stm32f10x.c" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5696" topLine="168" />
+		</Cursor>
+	</File>
+</EmBlocks_layout_file>

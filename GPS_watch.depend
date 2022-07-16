@@ -1,0 +1,868 @@
+# depslib dependency file v1.0
+1451767270 source:d:\projects\at_stm\gps\gps_watch\src\gps.c
+	"GPS.h"
+	"RTC.h"
+	"stm32f10x_iwdg.h"
+
+1448470340 d:\projects\at_stm\gps\gps_watch\inc\gps.h
+	"stm32f10x.h"
+
+1447012484 d:\projects\at_stm\gps\gps_watch\inc\stm32f10x.h
+	"core_cm3.h"
+	"system_stm32f10x.h"
+	<stdint.h>
+	"stm32f10x_conf.h"
+
+1408304152 d:\projects\at_stm\gps\gps_watch\inc\system_stm32f10x.h
+
+1408304152 d:\projects\at_stm\gps\gps_watch\inc\stm32f10x_conf.h
+
+1454257590 source:d:\projects\at_stm\gps\gps_watch\src\rtc.c
+	"RTC.h"
+	"misc.h"
+	"stm32f10x_rtc.h"
+	"stm32f10x_rcc.h"
+	"stm32f10x_bkp.h"
+	"stm32f10x_gpio.h"
+	"stm32f10x_exti.h"
+	"stm32f10x_pwr.h"
+	"digits.h"
+	"GPS.h"
+
+1447446370 d:\projects\at_stm\gps\gps_watch\inc\rtc.h
+	"stm32f10x.h"
+
+1299743236 d:\projects\at_stm\gps\gps_watch\stm_lib\inc\misc.h
+	"stm32f10x.h"
+
+1299743236 d:\projects\at_stm\gps\gps_watch\stm_lib\inc\stm32f10x_rtc.h
+	"stm32f10x.h"
+
+1408304152 d:\projects\at_stm\gps\gps_watch\inc\stm32f10x_rcc.h
+	"stm32f10x.h"
+
+1299743236 d:\projects\at_stm\gps\gps_watch\stm_lib\inc\stm32f10x_bkp.h
+	"stm32f10x.h"
+
+1408304152 d:\projects\at_stm\gps\gps_watch\inc\stm32f10x_gpio.h
+	"stm32f10x.h"
+
+1299743236 d:\projects\at_stm\gps\gps_watch\stm_lib\inc\stm32f10x_exti.h
+	"stm32f10x.h"
+
+1299743236 d:\projects\at_stm\gps\gps_watch\stm_lib\inc\stm32f10x_pwr.h
+	"stm32f10x.h"
+
+1448310164 d:\projects\at_stm\gps\gps_watch\inc\digits.h
+
+1446930854 source:d:\projects\at_stm\gps\gps_watch\src\adc.c
+	"adc.h"
+	"stm32f10x_adc.h"
+	"stm32f10x_gpio.h"
+	"stm32f10x_rcc.h"
+	"misc.h"
+	"timers.h"
+
+1397418540 d:\projects\at_stm\gps\gps_watch\inc\adc.h
+	"stm32F10x.h"
+
+1299743236 d:\projects\at_stm\gps\gps_watch\stm_lib\inc\stm32f10x_adc.h
+	"stm32f10x.h"
+
+1447231624 d:\projects\at_stm\gps\gps_watch\inc\timers.h
+	"stm32f10x.h"
+
+1447076648 source:d:\projects\at_stm\gps\gps_watch\src\delays.c
+	"delays.h"
+
+1447076648 d:\projects\at_stm\gps\gps_watch\inc\delays.h
+	"stm32f10x.h"
+
+1452034086 source:d:\projects\at_stm\gps\gps_watch\src\digits.c
+	"digits.h"
+	"stm32f10x_gpio.h"
+
+1452033626 source:d:\projects\at_stm\gps\gps_watch\src\ioconfig.c
+	"ioconfig.h"
+	"stm32f10x_gpio.h"
+	"stm32f10x_rcc.h"
+	"stm32f10x_pwr.h"
+	"digits.h"
+	"RTC.h"
+	"GPS.h"
+
+1446905996 d:\projects\at_stm\gps\gps_watch\inc\ioconfig.h
+
+1299743236 d:\projects\at_stm\gps\gps_watch\stm_lib\inc\stm32f10x_i2c.h
+	"stm32f10x.h"
+
+1454257590 source:d:\projects\at_stm\gps\gps_watch\src\main.c
+	"stm32f10x.h"
+	"stm32f10x_i2c.h"
+	"stm32f10x_rtc.h"
+	"stm32f10x_adc.h"
+	"uart.h"
+	"delays.h"
+	"digits.h"
+	"timers.h"
+	"ioconfig.h"
+	"RTC.h"
+	"GPS.h"
+	"user_interface.h"
+	"stm32f10x_rtc.h"
+
+1372218922 d:\projects\at_stm\gps\gps_watch\inc\uart.h
+	"stm32F10x.h"
+
+1408304152 source:d:\projects\at_stm\gps\gps_watch\src\startup_stm32f10x_md_vl.c
+
+1420073834 source:d:\projects\at_stm\gps\gps_watch\src\system_stm32f10x.c
+	"stm32f10x.h"
+
+1449085678 source:d:\projects\at_stm\gps\gps_watch\src\timers.c
+	"timers.h"
+	"stm32f10x_rtc.h"
+	"stm32f10x_adc.h"
+	"stm32f10x_pwr.h"
+	"RTC.h"
+	"digits.h"
+	"stm32f10x_iwdg.h"
+	"GPS.h"
+
+1446043806 source:d:\projects\at_stm\gps\gps_watch\src\uart.c
+	"uart.h"
+	"stm32f10x_usart.h"
+	"stm32f10x_rcc.h"
+	"stm32f10x_gpio.h"
+	"misc.h"
+	"GPS.h"
+
+1299743236 d:\projects\at_stm\gps\gps_watch\stm_lib\inc\stm32f10x_usart.h
+	"stm32f10x.h"
+
+1299743236 source:d:\projects\at_stm\gps\gps_watch\stm_lib\src\misc.c
+	"misc.h"
+
+1299743236 source:d:\projects\at_stm\gps\gps_watch\stm_lib\src\stm32f10x_adc.c
+	"stm32f10x_adc.h"
+	"stm32f10x_rcc.h"
+
+1299743236 source:d:\projects\at_stm\gps\gps_watch\stm_lib\src\stm32f10x_bkp.c
+	"stm32f10x_bkp.h"
+	"stm32f10x_rcc.h"
+
+1299743236 source:d:\projects\at_stm\gps\gps_watch\stm_lib\src\stm32f10x_can.c
+	"stm32f10x_can.h"
+	"stm32f10x_rcc.h"
+
+1299743236 d:\projects\at_stm\gps\gps_watch\stm_lib\inc\stm32f10x_can.h
+	"stm32f10x.h"
+
+1299743236 source:d:\projects\at_stm\gps\gps_watch\stm_lib\src\stm32f10x_cec.c
+	"stm32f10x_cec.h"
+	"stm32f10x_rcc.h"
+
+1299743236 d:\projects\at_stm\gps\gps_watch\stm_lib\inc\stm32f10x_cec.h
+	"stm32f10x.h"
+
+1299743236 source:d:\projects\at_stm\gps\gps_watch\stm_lib\src\stm32f10x_crc.c
+	"stm32f10x_crc.h"
+
+1299743236 d:\projects\at_stm\gps\gps_watch\stm_lib\inc\stm32f10x_crc.h
+	"stm32f10x.h"
+
+1299743236 source:d:\projects\at_stm\gps\gps_watch\stm_lib\src\stm32f10x_dac.c
+	"stm32f10x_dac.h"
+	"stm32f10x_rcc.h"
+
+1299743236 d:\projects\at_stm\gps\gps_watch\stm_lib\inc\stm32f10x_dac.h
+	"stm32f10x.h"
+
+1299743236 source:d:\projects\at_stm\gps\gps_watch\stm_lib\src\stm32f10x_dbgmcu.c
+	"stm32f10x_dbgmcu.h"
+
+1299743236 d:\projects\at_stm\gps\gps_watch\stm_lib\inc\stm32f10x_dbgmcu.h
+	"stm32f10x.h"
+
+1299743236 source:d:\projects\at_stm\gps\gps_watch\stm_lib\src\stm32f10x_dma.c
+	"stm32f10x_dma.h"
+	"stm32f10x_rcc.h"
+
+1299743236 d:\projects\at_stm\gps\gps_watch\stm_lib\inc\stm32f10x_dma.h
+	"stm32f10x.h"
+
+1299743236 source:d:\projects\at_stm\gps\gps_watch\stm_lib\src\stm32f10x_exti.c
+	"stm32f10x_exti.h"
+
+1299743236 source:d:\projects\at_stm\gps\gps_watch\stm_lib\src\stm32f10x_flash.c
+	"stm32f10x_flash.h"
+
+1299743236 d:\projects\at_stm\gps\gps_watch\stm_lib\inc\stm32f10x_flash.h
+	"stm32f10x.h"
+
+1299743236 source:d:\projects\at_stm\gps\gps_watch\stm_lib\src\stm32f10x_fsmc.c
+	"stm32f10x_fsmc.h"
+	"stm32f10x_rcc.h"
+
+1299743236 d:\projects\at_stm\gps\gps_watch\stm_lib\inc\stm32f10x_fsmc.h
+	"stm32f10x.h"
+
+1299854614 source:d:\projects\at_stm\gps\gps_watch\stm_lib\src\stm32f10x_gpio.c
+	"stm32f10x_gpio.h"
+	"stm32f10x_rcc.h"
+
+1299743236 source:d:\projects\at_stm\gps\gps_watch\stm_lib\src\stm32f10x_i2c.c
+	"stm32f10x_i2c.h"
+	"stm32f10x_rcc.h"
+
+1299743236 source:d:\projects\at_stm\gps\gps_watch\stm_lib\src\stm32f10x_iwdg.c
+	"stm32f10x_iwdg.h"
+
+1299743236 d:\projects\at_stm\gps\gps_watch\stm_lib\inc\stm32f10x_iwdg.h
+	"stm32f10x.h"
+
+1299743236 source:d:\projects\at_stm\gps\gps_watch\stm_lib\src\stm32f10x_pwr.c
+	"stm32f10x_pwr.h"
+	"stm32f10x_rcc.h"
+
+1299743236 source:d:\projects\at_stm\gps\gps_watch\stm_lib\src\stm32f10x_rcc.c
+	"stm32f10x_rcc.h"
+
+1299743236 source:d:\projects\at_stm\gps\gps_watch\stm_lib\src\stm32f10x_rtc.c
+	"stm32f10x_rtc.h"
+
+1299743236 source:d:\projects\at_stm\gps\gps_watch\stm_lib\src\stm32f10x_sdio.c
+	"stm32f10x_sdio.h"
+	"stm32f10x_rcc.h"
+
+1299743236 d:\projects\at_stm\gps\gps_watch\stm_lib\inc\stm32f10x_sdio.h
+	"stm32f10x.h"
+
+1299743236 source:d:\projects\at_stm\gps\gps_watch\stm_lib\src\stm32f10x_spi.c
+	"stm32f10x_spi.h"
+	"stm32f10x_rcc.h"
+
+1299743236 d:\projects\at_stm\gps\gps_watch\stm_lib\inc\stm32f10x_spi.h
+	"stm32f10x.h"
+
+1299743236 source:d:\projects\at_stm\gps\gps_watch\stm_lib\src\stm32f10x_tim.c
+	"stm32f10x_tim.h"
+	"stm32f10x_rcc.h"
+
+1299743236 d:\projects\at_stm\gps\gps_watch\stm_lib\inc\stm32f10x_tim.h
+	"stm32f10x.h"
+
+1299743236 source:d:\projects\at_stm\gps\gps_watch\stm_lib\src\stm32f10x_usart.c
+	"stm32f10x_usart.h"
+	"stm32f10x_rcc.h"
+
+1299743236 source:d:\projects\at_stm\gps\gps_watch\stm_lib\src\stm32f10x_wwdg.c
+	"stm32f10x_wwdg.h"
+	"stm32f10x_rcc.h"
+
+1299743236 d:\projects\at_stm\gps\gps_watch\stm_lib\inc\stm32f10x_wwdg.h
+	"stm32f10x.h"
+
+1420076324 source:d:\projects\at_stm\gps\gps_watch\src\i2c.c
+	"i2c.h"
+	"stm32F10x.h"
+	"stm32f10x_rcc.h"
+	"stm32f10x_gpio.h"
+	"stm32f10x_i2c.h"
+
+1372245886 d:\projects\at_stm\gps\gps_watch\src\i2c.h
+	"stm32f10x.h"
+
+1372245886 d:\projects\at_stm\gps\gps_watch\inc\i2c.h
+	"stm32f10x.h"
+
+1420038036 source:e:\projects\the watch\gps\gps_watch\src\gps.c
+	"GPS.h"
+
+1420037730 e:\projects\the watch\gps\gps_watch\inc\gps.h
+	"stm32f10x.h"
+
+1408304152 e:\projects\the watch\gps\gps_watch\inc\stm32f10x.h
+	"core_cm3.h"
+	"system_stm32f10x.h"
+	<stdint.h>
+	"stm32f10x_conf.h"
+
+1408304152 e:\projects\the watch\gps\gps_watch\inc\system_stm32f10x.h
+
+1408304152 e:\projects\the watch\gps\gps_watch\inc\stm32f10x_conf.h
+
+1415049114 source:e:\projects\the watch\gps\gps_watch\src\rtc.c
+	"RTC.h"
+	"misc.h"
+	"stm32f10x_rtc.h"
+	"stm32f10x_rcc.h"
+	"stm32f10x_bkp.h"
+	"stm32f10x_gpio.h"
+	"stm32f10x_exti.h"
+	"stm32f10x_pwr.h"
+	"digits.h"
+
+1415096920 e:\projects\the watch\gps\gps_watch\inc\rtc.h
+	"stm32f10x.h"
+
+1299743236 e:\projects\the watch\gps\gps_watch\stm_lib\inc\misc.h
+	"stm32f10x.h"
+
+1299743236 e:\projects\the watch\gps\gps_watch\stm_lib\inc\stm32f10x_rtc.h
+	"stm32f10x.h"
+
+1408304152 e:\projects\the watch\gps\gps_watch\inc\stm32f10x_rcc.h
+	"stm32f10x.h"
+
+1299743236 e:\projects\the watch\gps\gps_watch\stm_lib\inc\stm32f10x_bkp.h
+	"stm32f10x.h"
+
+1408304152 e:\projects\the watch\gps\gps_watch\inc\stm32f10x_gpio.h
+	"stm32f10x.h"
+
+1299743236 e:\projects\the watch\gps\gps_watch\stm_lib\inc\stm32f10x_exti.h
+	"stm32f10x.h"
+
+1299743236 e:\projects\the watch\gps\gps_watch\stm_lib\inc\stm32f10x_pwr.h
+	"stm32f10x.h"
+
+1445769854 e:\projects\the watch\gps\gps_watch\inc\digits.h
+
+1408585732 source:e:\projects\the watch\gps\gps_watch\src\adc.c
+	"adc.h"
+	"stm32f10x_adc.h"
+	"stm32f10x_gpio.h"
+	"stm32f10x_rcc.h"
+	"misc.h"
+	"timers.h"
+
+1397418540 e:\projects\the watch\gps\gps_watch\inc\adc.h
+	"stm32F10x.h"
+
+1299743236 e:\projects\the watch\gps\gps_watch\stm_lib\inc\stm32f10x_adc.h
+	"stm32f10x.h"
+
+1445759576 e:\projects\the watch\gps\gps_watch\inc\timers.h
+	"stm32f10x.h"
+
+1387403140 source:e:\projects\the watch\gps\gps_watch\src\delays.c
+	"delays.h"
+
+1374566294 e:\projects\the watch\gps\gps_watch\inc\delays.h
+	"stm32f10x.h"
+
+1445765574 source:e:\projects\the watch\gps\gps_watch\src\digits.c
+	"digits.h"
+	"stm32f10x_gpio.h"
+
+1420076324 source:e:\projects\the watch\gps\gps_watch\src\i2c.c
+	"i2c.h"
+	"stm32F10x.h"
+	"stm32f10x_rcc.h"
+	"stm32f10x_gpio.h"
+	"stm32f10x_i2c.h"
+
+1372245886 e:\projects\the watch\gps\gps_watch\inc\i2c.h
+	"stm32f10x.h"
+
+1299743236 e:\projects\the watch\gps\gps_watch\stm_lib\inc\stm32f10x_i2c.h
+	"stm32f10x.h"
+
+1446042576 source:e:\projects\the watch\gps\gps_watch\src\ioconfig.c
+	"ioconfig.h"
+	"stm32f10x_gpio.h"
+
+1394124088 e:\projects\the watch\gps\gps_watch\inc\ioconfig.h
+
+1446038966 source:e:\projects\the watch\gps\gps_watch\src\main.c
+	"stm32F10x.h"
+	"stm32f10x_i2c.h"
+	"stm32f10x_rtc.h"
+	"stm32f10x_adc.h"
+	"uart.h"
+	"delays.h"
+	"timers.h"
+	"ioconfig.h"
+	"adc.h"
+	"RTC.h"
+	"GPS.h"
+	"i2c.h"
+
+1372218922 e:\projects\the watch\gps\gps_watch\inc\uart.h
+	"stm32F10x.h"
+
+1408304152 source:e:\projects\the watch\gps\gps_watch\src\startup_stm32f10x_md_vl.c
+
+1420073834 source:e:\projects\the watch\gps\gps_watch\src\system_stm32f10x.c
+	"stm32f10x.h"
+
+1445765574 source:e:\projects\the watch\gps\gps_watch\src\timers.c
+	"timers.h"
+	"adc.h"
+	"stm32f10x_rtc.h"
+	"stm32f10x_adc.h"
+	"stm32f10x_pwr.h"
+	"RTC.h"
+	"digits.h"
+	"GPS.h"
+
+1446038966 source:e:\projects\the watch\gps\gps_watch\src\uart.c
+	"uart.h"
+	"stm32f10x_usart.h"
+	"stm32f10x_rcc.h"
+	"stm32f10x_gpio.h"
+	"misc.h"
+	"GPS.h"
+
+1299743236 e:\projects\the watch\gps\gps_watch\stm_lib\inc\stm32f10x_usart.h
+	"stm32f10x.h"
+
+1299743236 source:e:\projects\the watch\gps\gps_watch\stm_lib\src\misc.c
+	"misc.h"
+
+1299743236 source:e:\projects\the watch\gps\gps_watch\stm_lib\src\stm32f10x_adc.c
+	"stm32f10x_adc.h"
+	"stm32f10x_rcc.h"
+
+1299743236 source:e:\projects\the watch\gps\gps_watch\stm_lib\src\stm32f10x_bkp.c
+	"stm32f10x_bkp.h"
+	"stm32f10x_rcc.h"
+
+1299743236 source:e:\projects\the watch\gps\gps_watch\stm_lib\src\stm32f10x_can.c
+	"stm32f10x_can.h"
+	"stm32f10x_rcc.h"
+
+1299743236 e:\projects\the watch\gps\gps_watch\stm_lib\inc\stm32f10x_can.h
+	"stm32f10x.h"
+
+1299743236 source:e:\projects\the watch\gps\gps_watch\stm_lib\src\stm32f10x_cec.c
+	"stm32f10x_cec.h"
+	"stm32f10x_rcc.h"
+
+1299743236 e:\projects\the watch\gps\gps_watch\stm_lib\inc\stm32f10x_cec.h
+	"stm32f10x.h"
+
+1299743236 source:e:\projects\the watch\gps\gps_watch\stm_lib\src\stm32f10x_crc.c
+	"stm32f10x_crc.h"
+
+1299743236 e:\projects\the watch\gps\gps_watch\stm_lib\inc\stm32f10x_crc.h
+	"stm32f10x.h"
+
+1299743236 source:e:\projects\the watch\gps\gps_watch\stm_lib\src\stm32f10x_dac.c
+	"stm32f10x_dac.h"
+	"stm32f10x_rcc.h"
+
+1299743236 e:\projects\the watch\gps\gps_watch\stm_lib\inc\stm32f10x_dac.h
+	"stm32f10x.h"
+
+1299743236 source:e:\projects\the watch\gps\gps_watch\stm_lib\src\stm32f10x_dbgmcu.c
+	"stm32f10x_dbgmcu.h"
+
+1299743236 e:\projects\the watch\gps\gps_watch\stm_lib\inc\stm32f10x_dbgmcu.h
+	"stm32f10x.h"
+
+1299743236 source:e:\projects\the watch\gps\gps_watch\stm_lib\src\stm32f10x_dma.c
+	"stm32f10x_dma.h"
+	"stm32f10x_rcc.h"
+
+1299743236 e:\projects\the watch\gps\gps_watch\stm_lib\inc\stm32f10x_dma.h
+	"stm32f10x.h"
+
+1299743236 source:e:\projects\the watch\gps\gps_watch\stm_lib\src\stm32f10x_exti.c
+	"stm32f10x_exti.h"
+
+1299743236 source:e:\projects\the watch\gps\gps_watch\stm_lib\src\stm32f10x_flash.c
+	"stm32f10x_flash.h"
+
+1299743236 e:\projects\the watch\gps\gps_watch\stm_lib\inc\stm32f10x_flash.h
+	"stm32f10x.h"
+
+1299743236 source:e:\projects\the watch\gps\gps_watch\stm_lib\src\stm32f10x_fsmc.c
+	"stm32f10x_fsmc.h"
+	"stm32f10x_rcc.h"
+
+1299743236 e:\projects\the watch\gps\gps_watch\stm_lib\inc\stm32f10x_fsmc.h
+	"stm32f10x.h"
+
+1299854614 source:e:\projects\the watch\gps\gps_watch\stm_lib\src\stm32f10x_gpio.c
+	"stm32f10x_gpio.h"
+	"stm32f10x_rcc.h"
+
+1299743236 source:e:\projects\the watch\gps\gps_watch\stm_lib\src\stm32f10x_i2c.c
+	"stm32f10x_i2c.h"
+	"stm32f10x_rcc.h"
+
+1299743236 source:e:\projects\the watch\gps\gps_watch\stm_lib\src\stm32f10x_iwdg.c
+	"stm32f10x_iwdg.h"
+
+1299743236 e:\projects\the watch\gps\gps_watch\stm_lib\inc\stm32f10x_iwdg.h
+	"stm32f10x.h"
+
+1299743236 source:e:\projects\the watch\gps\gps_watch\stm_lib\src\stm32f10x_pwr.c
+	"stm32f10x_pwr.h"
+	"stm32f10x_rcc.h"
+
+1299743236 source:e:\projects\the watch\gps\gps_watch\stm_lib\src\stm32f10x_rcc.c
+	"stm32f10x_rcc.h"
+
+1299743236 source:e:\projects\the watch\gps\gps_watch\stm_lib\src\stm32f10x_rtc.c
+	"stm32f10x_rtc.h"
+
+1299743236 source:e:\projects\the watch\gps\gps_watch\stm_lib\src\stm32f10x_sdio.c
+	"stm32f10x_sdio.h"
+	"stm32f10x_rcc.h"
+
+1299743236 e:\projects\the watch\gps\gps_watch\stm_lib\inc\stm32f10x_sdio.h
+	"stm32f10x.h"
+
+1299743236 source:e:\projects\the watch\gps\gps_watch\stm_lib\src\stm32f10x_spi.c
+	"stm32f10x_spi.h"
+	"stm32f10x_rcc.h"
+
+1299743236 e:\projects\the watch\gps\gps_watch\stm_lib\inc\stm32f10x_spi.h
+	"stm32f10x.h"
+
+1299743236 source:e:\projects\the watch\gps\gps_watch\stm_lib\src\stm32f10x_tim.c
+	"stm32f10x_tim.h"
+	"stm32f10x_rcc.h"
+
+1299743236 e:\projects\the watch\gps\gps_watch\stm_lib\inc\stm32f10x_tim.h
+	"stm32f10x.h"
+
+1299743236 source:e:\projects\the watch\gps\gps_watch\stm_lib\src\stm32f10x_usart.c
+	"stm32f10x_usart.h"
+	"stm32f10x_rcc.h"
+
+1299743236 source:e:\projects\the watch\gps\gps_watch\stm_lib\src\stm32f10x_wwdg.c
+	"stm32f10x_wwdg.h"
+	"stm32f10x_rcc.h"
+
+1299743236 e:\projects\the watch\gps\gps_watch\stm_lib\inc\stm32f10x_wwdg.h
+	"stm32f10x.h"
+
+1446730144 source:e:\projects\at_stm\the watch\gps\gps_watch\src\gps.c
+	"GPS.h"
+
+1446728298 e:\projects\at_stm\the watch\gps\gps_watch\inc\gps.h
+	"stm32f10x.h"
+
+1408304152 e:\projects\at_stm\the watch\gps\gps_watch\inc\stm32f10x.h
+	"core_cm3.h"
+	"system_stm32f10x.h"
+	<stdint.h>
+	"stm32f10x_conf.h"
+
+1408304152 e:\projects\at_stm\the watch\gps\gps_watch\inc\system_stm32f10x.h
+
+1408304152 e:\projects\at_stm\the watch\gps\gps_watch\inc\stm32f10x_conf.h
+
+1415049114 source:e:\projects\at_stm\the watch\gps\gps_watch\src\rtc.c
+	"RTC.h"
+	"misc.h"
+	"stm32f10x_rtc.h"
+	"stm32f10x_rcc.h"
+	"stm32f10x_bkp.h"
+	"stm32f10x_gpio.h"
+	"stm32f10x_exti.h"
+	"stm32f10x_pwr.h"
+	"digits.h"
+
+1415096920 e:\projects\at_stm\the watch\gps\gps_watch\inc\rtc.h
+	"stm32f10x.h"
+
+1299743236 e:\projects\at_stm\the watch\gps\gps_watch\stm_lib\inc\misc.h
+	"stm32f10x.h"
+
+1299743236 e:\projects\at_stm\the watch\gps\gps_watch\stm_lib\inc\stm32f10x_rtc.h
+	"stm32f10x.h"
+
+1408304152 e:\projects\at_stm\the watch\gps\gps_watch\inc\stm32f10x_rcc.h
+	"stm32f10x.h"
+
+1299743236 e:\projects\at_stm\the watch\gps\gps_watch\stm_lib\inc\stm32f10x_bkp.h
+	"stm32f10x.h"
+
+1408304152 e:\projects\at_stm\the watch\gps\gps_watch\inc\stm32f10x_gpio.h
+	"stm32f10x.h"
+
+1299743236 e:\projects\at_stm\the watch\gps\gps_watch\stm_lib\inc\stm32f10x_exti.h
+	"stm32f10x.h"
+
+1299743236 e:\projects\at_stm\the watch\gps\gps_watch\stm_lib\inc\stm32f10x_pwr.h
+	"stm32f10x.h"
+
+1445769854 e:\projects\at_stm\the watch\gps\gps_watch\inc\digits.h
+
+1408585732 source:e:\projects\at_stm\the watch\gps\gps_watch\src\adc.c
+	"adc.h"
+	"stm32f10x_adc.h"
+	"stm32f10x_gpio.h"
+	"stm32f10x_rcc.h"
+	"misc.h"
+	"timers.h"
+
+1397418540 e:\projects\at_stm\the watch\gps\gps_watch\inc\adc.h
+	"stm32F10x.h"
+
+1299743236 e:\projects\at_stm\the watch\gps\gps_watch\stm_lib\inc\stm32f10x_adc.h
+	"stm32f10x.h"
+
+1446729164 e:\projects\at_stm\the watch\gps\gps_watch\inc\timers.h
+	"stm32f10x.h"
+
+1387403140 source:e:\projects\at_stm\the watch\gps\gps_watch\src\delays.c
+	"delays.h"
+
+1374566294 e:\projects\at_stm\the watch\gps\gps_watch\inc\delays.h
+	"stm32f10x.h"
+
+1445765574 source:e:\projects\at_stm\the watch\gps\gps_watch\src\digits.c
+	"digits.h"
+	"stm32f10x_gpio.h"
+
+1420076324 source:e:\projects\at_stm\the watch\gps\gps_watch\src\i2c.c
+	"i2c.h"
+	"stm32F10x.h"
+	"stm32f10x_rcc.h"
+	"stm32f10x_gpio.h"
+	"stm32f10x_i2c.h"
+
+1372245886 e:\projects\at_stm\the watch\gps\gps_watch\inc\i2c.h
+	"stm32f10x.h"
+
+1299743236 e:\projects\at_stm\the watch\gps\gps_watch\stm_lib\inc\stm32f10x_i2c.h
+	"stm32f10x.h"
+
+1446729164 source:e:\projects\at_stm\the watch\gps\gps_watch\src\ioconfig.c
+	"ioconfig.h"
+	"stm32f10x_gpio.h"
+	"stm32f10x_rcc.h"
+
+1394124088 e:\projects\at_stm\the watch\gps\gps_watch\inc\ioconfig.h
+
+1446043806 source:e:\projects\at_stm\the watch\gps\gps_watch\src\main.c
+	"stm32F10x.h"
+	"stm32f10x_i2c.h"
+	"stm32f10x_rtc.h"
+	"stm32f10x_adc.h"
+	"uart.h"
+	"delays.h"
+	"timers.h"
+	"ioconfig.h"
+	"adc.h"
+	"RTC.h"
+	"GPS.h"
+	"i2c.h"
+
+1372218922 e:\projects\at_stm\the watch\gps\gps_watch\inc\uart.h
+	"stm32F10x.h"
+
+1408304152 source:e:\projects\at_stm\the watch\gps\gps_watch\src\startup_stm32f10x_md_vl.c
+
+1420073834 source:e:\projects\at_stm\the watch\gps\gps_watch\src\system_stm32f10x.c
+	"stm32f10x.h"
+
+1445765574 source:e:\projects\at_stm\the watch\gps\gps_watch\src\timers.c
+	"timers.h"
+	"adc.h"
+	"stm32f10x_rtc.h"
+	"stm32f10x_adc.h"
+	"stm32f10x_pwr.h"
+	"RTC.h"
+	"digits.h"
+	"GPS.h"
+
+1446043806 source:e:\projects\at_stm\the watch\gps\gps_watch\src\uart.c
+	"uart.h"
+	"stm32f10x_usart.h"
+	"stm32f10x_rcc.h"
+	"stm32f10x_gpio.h"
+	"misc.h"
+	"GPS.h"
+
+1299743236 e:\projects\at_stm\the watch\gps\gps_watch\stm_lib\inc\stm32f10x_usart.h
+	"stm32f10x.h"
+
+1299743236 source:e:\projects\at_stm\the watch\gps\gps_watch\stm_lib\src\misc.c
+	"misc.h"
+
+1299743236 source:e:\projects\at_stm\the watch\gps\gps_watch\stm_lib\src\stm32f10x_adc.c
+	"stm32f10x_adc.h"
+	"stm32f10x_rcc.h"
+
+1299743236 source:e:\projects\at_stm\the watch\gps\gps_watch\stm_lib\src\stm32f10x_bkp.c
+	"stm32f10x_bkp.h"
+	"stm32f10x_rcc.h"
+
+1299743236 source:e:\projects\at_stm\the watch\gps\gps_watch\stm_lib\src\stm32f10x_can.c
+	"stm32f10x_can.h"
+	"stm32f10x_rcc.h"
+
+1299743236 e:\projects\at_stm\the watch\gps\gps_watch\stm_lib\inc\stm32f10x_can.h
+	"stm32f10x.h"
+
+1299743236 source:e:\projects\at_stm\the watch\gps\gps_watch\stm_lib\src\stm32f10x_cec.c
+	"stm32f10x_cec.h"
+	"stm32f10x_rcc.h"
+
+1299743236 e:\projects\at_stm\the watch\gps\gps_watch\stm_lib\inc\stm32f10x_cec.h
+	"stm32f10x.h"
+
+1299743236 source:e:\projects\at_stm\the watch\gps\gps_watch\stm_lib\src\stm32f10x_crc.c
+	"stm32f10x_crc.h"
+
+1299743236 e:\projects\at_stm\the watch\gps\gps_watch\stm_lib\inc\stm32f10x_crc.h
+	"stm32f10x.h"
+
+1299743236 source:e:\projects\at_stm\the watch\gps\gps_watch\stm_lib\src\stm32f10x_dac.c
+	"stm32f10x_dac.h"
+	"stm32f10x_rcc.h"
+
+1299743236 e:\projects\at_stm\the watch\gps\gps_watch\stm_lib\inc\stm32f10x_dac.h
+	"stm32f10x.h"
+
+1299743236 source:e:\projects\at_stm\the watch\gps\gps_watch\stm_lib\src\stm32f10x_dbgmcu.c
+	"stm32f10x_dbgmcu.h"
+
+1299743236 e:\projects\at_stm\the watch\gps\gps_watch\stm_lib\inc\stm32f10x_dbgmcu.h
+	"stm32f10x.h"
+
+1299743236 source:e:\projects\at_stm\the watch\gps\gps_watch\stm_lib\src\stm32f10x_dma.c
+	"stm32f10x_dma.h"
+	"stm32f10x_rcc.h"
+
+1299743236 e:\projects\at_stm\the watch\gps\gps_watch\stm_lib\inc\stm32f10x_dma.h
+	"stm32f10x.h"
+
+1299743236 source:e:\projects\at_stm\the watch\gps\gps_watch\stm_lib\src\stm32f10x_exti.c
+	"stm32f10x_exti.h"
+
+1299743236 source:e:\projects\at_stm\the watch\gps\gps_watch\stm_lib\src\stm32f10x_flash.c
+	"stm32f10x_flash.h"
+
+1299743236 e:\projects\at_stm\the watch\gps\gps_watch\stm_lib\inc\stm32f10x_flash.h
+	"stm32f10x.h"
+
+1299743236 source:e:\projects\at_stm\the watch\gps\gps_watch\stm_lib\src\stm32f10x_fsmc.c
+	"stm32f10x_fsmc.h"
+	"stm32f10x_rcc.h"
+
+1299743236 e:\projects\at_stm\the watch\gps\gps_watch\stm_lib\inc\stm32f10x_fsmc.h
+	"stm32f10x.h"
+
+1299854614 source:e:\projects\at_stm\the watch\gps\gps_watch\stm_lib\src\stm32f10x_gpio.c
+	"stm32f10x_gpio.h"
+	"stm32f10x_rcc.h"
+
+1299743236 source:e:\projects\at_stm\the watch\gps\gps_watch\stm_lib\src\stm32f10x_i2c.c
+	"stm32f10x_i2c.h"
+	"stm32f10x_rcc.h"
+
+1299743236 source:e:\projects\at_stm\the watch\gps\gps_watch\stm_lib\src\stm32f10x_iwdg.c
+	"stm32f10x_iwdg.h"
+
+1299743236 e:\projects\at_stm\the watch\gps\gps_watch\stm_lib\inc\stm32f10x_iwdg.h
+	"stm32f10x.h"
+
+1299743236 source:e:\projects\at_stm\the watch\gps\gps_watch\stm_lib\src\stm32f10x_pwr.c
+	"stm32f10x_pwr.h"
+	"stm32f10x_rcc.h"
+
+1299743236 source:e:\projects\at_stm\the watch\gps\gps_watch\stm_lib\src\stm32f10x_rcc.c
+	"stm32f10x_rcc.h"
+
+1299743236 source:e:\projects\at_stm\the watch\gps\gps_watch\stm_lib\src\stm32f10x_rtc.c
+	"stm32f10x_rtc.h"
+
+1299743236 source:e:\projects\at_stm\the watch\gps\gps_watch\stm_lib\src\stm32f10x_sdio.c
+	"stm32f10x_sdio.h"
+	"stm32f10x_rcc.h"
+
+1299743236 e:\projects\at_stm\the watch\gps\gps_watch\stm_lib\inc\stm32f10x_sdio.h
+	"stm32f10x.h"
+
+1299743236 source:e:\projects\at_stm\the watch\gps\gps_watch\stm_lib\src\stm32f10x_spi.c
+	"stm32f10x_spi.h"
+	"stm32f10x_rcc.h"
+
+1299743236 e:\projects\at_stm\the watch\gps\gps_watch\stm_lib\inc\stm32f10x_spi.h
+	"stm32f10x.h"
+
+1299743236 source:e:\projects\at_stm\the watch\gps\gps_watch\stm_lib\src\stm32f10x_tim.c
+	"stm32f10x_tim.h"
+	"stm32f10x_rcc.h"
+
+1299743236 e:\projects\at_stm\the watch\gps\gps_watch\stm_lib\inc\stm32f10x_tim.h
+	"stm32f10x.h"
+
+1299743236 source:e:\projects\at_stm\the watch\gps\gps_watch\stm_lib\src\stm32f10x_usart.c
+	"stm32f10x_usart.h"
+	"stm32f10x_rcc.h"
+
+1299743236 source:e:\projects\at_stm\the watch\gps\gps_watch\stm_lib\src\stm32f10x_wwdg.c
+	"stm32f10x_wwdg.h"
+	"stm32f10x_rcc.h"
+
+1299743236 e:\projects\at_stm\the watch\gps\gps_watch\stm_lib\inc\stm32f10x_wwdg.h
+	"stm32f10x.h"
+
+1447216682 d:\projects\at_stm\gps\gps_watch\templates\stm32f10x.h
+	"core_cm3.h"
+	"system_stm32f10x.h"
+	<stdint.h>
+	"stm32f10x_conf.h"
+
+1447005514 d:\projects\at_stm\gps\gps_watch\templates\stm32f10x_conf.h
+	"stm32f10x_adc.h"
+	"stm32f10x_bkp.h"
+	"stm32f10x_can.h"
+	"stm32f10x_cec.h"
+	"stm32f10x_crc.h"
+	"stm32f10x_dac.h"
+	"stm32f10x_dbgmcu.h"
+	"stm32f10x_dma.h"
+	"stm32f10x_exti.h"
+	"stm32f10x_flash.h"
+	"stm32f10x_fsmc.h"
+	"stm32f10x_gpio.h"
+	"stm32f10x_i2c.h"
+	"stm32f10x_iwdg.h"
+	"stm32f10x_pwr.h"
+	"stm32f10x_rcc.h"
+	"stm32f10x_rtc.h"
+	"stm32f10x_sdio.h"
+	"stm32f10x_spi.h"
+	"stm32f10x_tim.h"
+	"stm32f10x_usart.h"
+	"stm32f10x_wwdg.h"
+	"misc.h"
+
+1448051660 d:\projects\at_stm\gps\gps_watch\inc\user_interface.h
+
+1448469668 source:d:\projects\at_stm\gps\gps_watch\src\user_interface.c
+	"user_interface.h"
+	"digits.h"
+	"timers.h"
+	"GPS.h"
+	"flash.h"
+
+1408304152 source:d:\projects\at_stm\gps\gps_watch\templates\startup_stm32f10x_md_vl.c
+
+1396933800 source:d:\projects\at_stm\gps\gps_watch\templates\stm32f10x_it.c
+	"stm32f10x_it.h"
+
+1392128368 d:\projects\at_stm\gps\gps_watch\templates\stm32f10x_it.h
+	"stm32f10x.h"
+
+1447008466 source:d:\projects\at_stm\gps\gps_watch\templates\system_stm32f10x.c
+	"stm32f10x.h"
+
+1448467900 source:d:\projects\at_stm\gps\gps_watch\src\flash.c
+	"flash.h"
+	"stm32f10x_flash.h"
+	"timers.h"
+
+1448298020 d:\projects\at_stm\gps\gps_watch\inc\flash.h
+	"stm32f10x.h"
+
