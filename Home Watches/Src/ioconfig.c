@@ -1,0 +1,206 @@
+#include "ioconfig.h"
+#include "delays.h"
+#include "stm32f10x_i2c.h"
+#include "stm32f10x_rcc.h"
+//#include "stm32f10x_it.h"
+
+void ButtonConf(void){
+RCC_APB2PeriphClockCmd(RCC_APB2ENR_AFIOEN , ENABLE);
+AFIO->EXTICR[0]|=AFIO_EXTICR1_EXTI0_PB;
+AFIO->EXTICR[0]|=AFIO_EXTICR1_EXTI1_PB;
+AFIO->EXTICR[0]|=AFIO_EXTICR1_EXTI2_PB;
+AFIO->EXTICR[0]|=AFIO_EXTICR1_EXTI3_PB;
+AFIO->EXTICR[1]|=AFIO_EXTICR2_EXTI4_PB;
+
+EXTI->IMR|=(EXTI_IMR_MR0 | EXTI_IMR_MR1 | EXTI_IMR_MR2 | EXTI_IMR_MR3 | EXTI_IMR_MR4);
+EXTI->RTSR|=(EXTI_RTSR_TR0 | EXTI_RTSR_TR1 | EXTI_RTSR_TR2 | EXTI_RTSR_TR3 | EXTI_RTSR_TR4);
+NVIC_EnableIRQ (EXTI0_IRQn);
+NVIC_EnableIRQ (EXTI1_IRQn);
+NVIC_EnableIRQ (EXTI2_IRQn);
+NVIC_EnableIRQ (EXTI3_IRQn);
+NVIC_EnableIRQ (EXTI4_IRQn);
+return;
+}
+
+void EXTI0_IRQHandler(void)
+{
+ static u8 InsideCounter = 0;
+
+   delay_1s(); //delay button condition stable
+EXTI->PR|=0x01; // clear interrupt
+InsideCounter++;
+}
+
+void EXTI1_IRQHandler(void)
+{
+ static u8 InsideCounter = 0;
+   delay_1s(); //delay button condition stable
+EXTI->PR|=0x02; // clear interrupt
+InsideCounter++;
+}
+
+void EXTI2_IRQHandler(void)
+{
+ static u8 InsideCounter = 0;
+
+   delay_1s(); //delay button condition stable
+EXTI->PR|=0x04; // clear interrupt
+InsideCounter++;
+}
+
+void EXTI3_IRQHandler(void)
+{
+ static u8 InsideCounter = 0;
+   delay_1s(); //delay button condition stable
+EXTI->PR|=0x08; // clear interrupt
+InsideCounter++;
+}
+
+void EXTI4_IRQHandler(void)
+{
+ static u8 InsideCounter = 0;
+   delay_1s(); //delay button condition stable
+EXTI->PR|=0x10; // clear interrupt
+InsideCounter++;
+}
+
+void PortCConf(void){
+ //RCC->APB2ENR |= RCC_APB2ENR_IOPCEN;            //clock to the GPIOC
+ //GPIOC->CRL = 0x88333333; // push-pull output 50 MHz (PC0...PC3, PC4,5; )
+ //GPIOC->ODR &= ~0x00C0; //PC6,7 - pull down input
+ return;
+}
+void PortAConf(void){
+  RCC->APB2ENR |= RCC_APB2ENR_IOPAEN;            //тактирование линий GPIOA
+  //outputs is 2 MHz
+
+   //PA0
+  GPIOA->CRL &=~(GPIO_CRL_CNF0|GPIO_CRL_MODE0);
+  GPIOA->CRL |= GPIO_CRL_MODE0_1;
+  GPIOA->ODR|=GPIO_ODR_ODR0;
+  //PA2
+  GPIOA->CRL &=~(GPIO_CRL_CNF2|GPIO_CRL_MODE2);
+  GPIOA->CRL |= GPIO_CRL_MODE2_1;
+  GPIOA->ODR|=GPIO_ODR_ODR2;
+  //PA3
+  GPIOA->CRL &=~(GPIO_CRL_CNF3|GPIO_CRL_MODE3);
+  GPIOA->CRL |= GPIO_CRL_MODE3_1;
+  GPIOA->ODR|=GPIO_ODR_ODR3;
+
+  //PA4
+  GPIOA->CRL &=~(GPIO_CRL_CNF4|GPIO_CRL_MODE4);
+  GPIOA->CRL |= GPIO_CRL_MODE4_1;
+  GPIOA->ODR|=GPIO_ODR_ODR4;
+  //PA5
+  GPIOA->CRL &=~(GPIO_CRL_CNF5|GPIO_CRL_MODE5);
+  GPIOA->CRL |= GPIO_CRL_MODE5_1;
+  GPIOA->ODR|=GPIO_ODR_ODR5;
+  //PA6
+  GPIOA->CRL &=~(GPIO_CRL_CNF6|GPIO_CRL_MODE6);
+  GPIOA->CRL |= GPIO_CRL_MODE6_1;
+  GPIOA->ODR|=GPIO_ODR_ODR6;
+  //PA7
+  GPIOA->CRL &=~(GPIO_CRL_CNF7|GPIO_CRL_MODE7);
+  GPIOA->CRL |= GPIO_CRL_MODE7_1;
+  GPIOA->ODR|=GPIO_ODR_ODR7;
+  //PA8
+  GPIOA->CRH &=~(GPIO_CRH_CNF8|GPIO_CRH_MODE8);
+  GPIOA->CRH |= GPIO_CRH_MODE8_1;
+  GPIOA->ODR|=GPIO_ODR_ODR8;
+  //PA9
+  GPIOA->CRH &=~(GPIO_CRH_CNF9|GPIO_CRH_MODE9);
+  GPIOA->CRH |= GPIO_CRH_MODE9_1;
+  GPIOA->ODR|=GPIO_ODR_ODR9;
+  //PA10
+  GPIOA->CRH &=~(GPIO_CRH_CNF10|GPIO_CRH_MODE10);
+  GPIOA->CRH |= GPIO_CRH_MODE10_1;
+  GPIOA->ODR|=GPIO_ODR_ODR10;
+  //PA11
+  GPIOA->CRH &=~(GPIO_CRH_CNF11|GPIO_CRH_MODE11);
+  GPIOA->CRH |= GPIO_CRH_MODE11_1;
+  GPIOA->ODR|=GPIO_ODR_ODR11;
+  //PA12
+  GPIOA->CRH &=~(GPIO_CRH_CNF12|GPIO_CRH_MODE12);
+  GPIOA->CRH |= GPIO_CRH_MODE12_1;
+  GPIOA->ODR|=GPIO_ODR_ODR12;
+  //PA15
+  GPIOA->CRH &=~(GPIO_CRH_CNF15|GPIO_CRH_MODE15);
+  GPIOA->CRH |= GPIO_CRH_MODE15_1;
+  GPIOA->ODR|=GPIO_ODR_ODR15;
+ return;
+}
+
+void PortBConf(void){
+  RCC->APB2ENR |=RCC_APB2ENR_AFIOEN;
+  AFIO -> MAPR |= AFIO_MAPR_SWJ_CFG_1;
+  RCC->APB2ENR |= RCC_APB2ENR_IOPBEN;            //clock to the GPIOB
+
+   //outputs is 2 MHz LCD in this case
+  //pb0
+  GPIOB->CRL &=~(GPIO_CRL_CNF0|GPIO_CRL_MODE0);
+  GPIOB->CRL |= GPIO_CRL_MODE0_1;
+  GPIOB->ODR|=GPIO_ODR_ODR0;
+  //pb1
+  GPIOB->CRL &=~(GPIO_CRL_CNF1|GPIO_CRL_MODE1);
+  GPIOB->CRL |= GPIO_CRL_MODE1_1;
+  GPIOB->ODR |= GPIO_ODR_ODR1;
+  //pb2
+  GPIOB->CRL &=~(GPIO_CRL_CNF2|GPIO_CRL_MODE2);
+  GPIOB->CRL |= GPIO_CRL_MODE2_1;
+  GPIOB->ODR |= GPIO_ODR_ODR2;
+  //pb3
+  GPIOB->CRL &=~(GPIO_CRL_CNF3|GPIO_CRL_MODE3);
+  GPIOB->CRL |= GPIO_CRL_MODE3_1;
+  GPIOB->ODR |= GPIO_ODR_ODR3;
+  //pb4  // Configure PB.4 as Push Pull output at max 2Mhz
+   // Clear PB.4 control register bits
+  GPIOB->CRL &= ~(GPIO_CRL_MODE4 | GPIO_CRL_CNF4);
+  GPIOB->CRL |= GPIO_CRL_MODE4_1;
+  GPIOB->ODR |= GPIO_ODR_ODR4;
+  //pb5
+  GPIOB->CRL &=~(GPIO_CRL_CNF5|GPIO_CRL_MODE5);
+  GPIOB->CRL |= GPIO_CRL_MODE5_1;
+  GPIOB->ODR |= GPIO_ODR_ODR5;
+  //pb6
+  GPIOB->CRL &=~(GPIO_CRL_CNF6|GPIO_CRL_MODE6);
+  GPIOB->CRL |= GPIO_CRL_MODE6_1;
+  GPIOB->ODR |= GPIO_ODR_ODR6;
+  //pb7
+  GPIOB->CRL &=~(GPIO_CRL_CNF7|GPIO_CRL_MODE7);
+  GPIOB->CRL |= GPIO_CRL_MODE7_1;
+  GPIOB->ODR |= GPIO_ODR_ODR7;
+ //pb8
+  GPIOB->CRH &=~(GPIO_CRH_CNF8|GPIO_CRH_MODE8);
+  GPIOB->CRH |= GPIO_CRH_MODE8_1;
+  GPIOB->ODR|=GPIO_ODR_ODR8;
+  //pb9
+  GPIOB->CRH &=~(GPIO_CRH_CNF9|GPIO_CRH_MODE9);
+  GPIOB->CRH |= GPIO_CRH_MODE9_1;
+  GPIOB->ODR|=GPIO_ODR_ODR9;
+  //pb10
+  GPIOB->CRH &=~(GPIO_CRH_CNF10|GPIO_CRH_MODE10);
+  GPIOB->CRH |= GPIO_CRH_MODE10_1;
+  GPIOB->ODR|= GPIO_ODR_ODR10;
+  //pb11
+  GPIOB->CRH &=~(GPIO_CRH_CNF11|GPIO_CRH_MODE11);
+  GPIOB->CRH |= GPIO_CRH_MODE11_1;
+  GPIOB->ODR|= GPIO_ODR_ODR11;
+  //pb12
+  GPIOB->CRH &=~(GPIO_CRH_CNF12|GPIO_CRH_MODE12);
+  GPIOB->CRH |= GPIO_CRH_MODE12_1;
+  GPIOB->ODR|=GPIO_ODR_ODR12;
+  //pb13
+  GPIOB->CRH &=~(GPIO_CRH_CNF13|GPIO_CRH_MODE13);
+  GPIOB->CRH |= GPIO_CRH_MODE13_1;
+  GPIOB->ODR|=GPIO_ODR_ODR13;
+  //pb14
+  GPIOB->CRH &=~(GPIO_CRH_CNF14|GPIO_CRH_MODE14);
+  GPIOB->CRH |= GPIO_CRH_MODE14_1;
+  GPIOB->ODR|=GPIO_ODR_ODR14;
+  //pb15
+  GPIOB->CRH &=~(GPIO_CRH_CNF15|GPIO_CRH_MODE15);
+  GPIOB->CRH |= GPIO_CRH_MODE15_1;
+  GPIOB->ODR|=GPIO_ODR_ODR15;
+
+ return;
+}
